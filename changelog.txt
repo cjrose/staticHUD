@@ -1,6 +1,15 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Alpha 8.27.2020
+----------------------------------------------
++ Added custom colors
++ Added custom fonts
++ Added player health bar
++ Added ammo box
++ Added player class
+
+----------------------------------------------
 		Alpha 8.26.2020
 ----------------------------------------------
 + Initial commit

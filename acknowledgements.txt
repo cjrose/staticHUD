@@ -5,5 +5,8 @@ Credit to anything that helped during the creation of this HUD:
 Sven Pels - Creator of The Bold Font
 https://www.dafont.com/the-bold-font.font
 
+Canonical Ltd - Creater of the Ubuntu Font family
+https://design.ubuntu.com/font/
+
 JarateKing - BaseHUD tools and tutorial
 https://github.com/JarateKing/BaseHud
