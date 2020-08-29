@@ -211,7 +211,7 @@
 				"angles_z"		"0"
 				"origin_x"		"110"
 				"origin_y"		"0"
-				"origin_z"		"-70"
+				"origin_z"		"-80"
 			}
 			"Engineer"
 			{

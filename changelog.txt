@@ -1,6 +1,18 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Alpha 8.28.2020
+----------------------------------------------
++ Added damage notifications
++ Added damage numbers
++ Added killstreak label
++ Added most item meters
++ Added a custom killstreak icon
++ Added demoman sticky bomb count label
++ Added demo sticky / loose cannon charge meter
+
+
+----------------------------------------------
 		Alpha 8.27.2020
 ----------------------------------------------
 + Added custom colors

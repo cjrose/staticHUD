@@ -8,5 +8,6 @@ https://www.dafont.com/the-bold-font.font
 Canonical Ltd - Creater of the Ubuntu Font family
 https://design.ubuntu.com/font/
 
-JarateKing - BaseHUD tools and tutorial
+JarateKing - BaseHUD tools and hud reference (absolute legend)
 https://github.com/JarateKing/BaseHud
+https://github.com/JarateKing/TF2-Hud-Reference

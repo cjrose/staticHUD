@@ -180,6 +180,27 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+
+		"tbfDamageNormal"
+		{
+			"1"
+			{
+				"name"			"The Bold Font"
+				"tall"			"20"
+				"antialias"		"1"
+				"outline"		"1"
+			}
+		}
+		"tbfDamageLarge"
+		{
+			"1"
+			{
+				"name"			"The Bold Font"
+				"tall"			"28"
+				"antialias"		"1"
+				"outline"		"1"
+			}
+		}
 		
 		// fonts are used in order that they are listed
 		// fonts listed later in the order will only be used if they fulfill a range not already filled
