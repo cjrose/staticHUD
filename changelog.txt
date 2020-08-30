@@ -1,6 +1,14 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Alpha 8.29.2020
+----------------------------------------------
++ Added the rest of the item meters (I think)
++ Added medic charge bar
+~ Lowered the flickering effect of low ammo (inferno suggestion)
+
+
+----------------------------------------------
 		Alpha 8.28.2020
 ----------------------------------------------
 + Added damage notifications

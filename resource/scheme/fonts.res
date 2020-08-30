@@ -144,42 +144,6 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		"tbf52"
-		{
-			"1"
-			{
-				"name"			"The Bold Font"
-				"tall"			"52"
-				"antialias"		"1"
-			}
-		}
-		"tbf56"
-		{
-			"1"
-			{
-				"name"			"The Bold Font"
-				"tall"			"56"
-				"antialias"		"1"
-			}
-		}
-		"tbf60"
-		{
-			"1"
-			{
-				"name"			"The Bold Font"
-				"tall"			"60"
-				"antialias"		"1"
-			}
-		}
-		"tbf64"
-		{
-			"1"
-			{
-				"name"			"The Bold Font"
-				"tall"			"64"
-				"antialias"		"1"
-			}
-		}
 
 		"tbfDamageNormal"
 		{

@@ -64,4 +64,29 @@
 		"MeterFG"		"shWhite"
 		"MeterBG"		"shGray"
     }
+
+	HudBowCharge
+	{
+		"fieldName"		"HudBowCharge"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"c-51"
+		"ypos"			"c80"
+		"zpos"			"1"			// draw in front of ammo
+		"wide"			"110"
+		"tall"			"10"
+		"MeterFG"		"shWhite"
+		"MeterBG"		"shGray"
+	}
+
+	HudMedicCharge
+	{
+		"fieldName"		"HudMedicCharge"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"c-100"
+		"ypos"			"c10"
+		"wide"			"200"
+		"tall"			"300"
+	}
 }

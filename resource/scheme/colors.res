@@ -7,6 +7,8 @@ Scheme
 		"shWhite"			"255 255 255 255"
 		"shBlack"			"0 0 0 255"
 		"shGray"			"100 100 100 255"
+		"shGrayOpacity"		"100 100 100 150"
+		"shBlackOpacity"	"0 0 0 150"
 		
 		"shHPNormal"		"22 154 86 255"
 		"shHPBackground"	"0 0 0 153"

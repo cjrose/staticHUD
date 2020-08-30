@@ -1,15 +1,15 @@
-#base "../../defaulthud/huditemeffectmeter_demoman.res"
+#base "../../defaulthud/resource/ui/huditemeffectmeter_sniper.res"
 
-"Resource/UI/HudItemEffectMeter_Demoman.res"
+"Resource/UI/HudItemEffectMeter_Sniper.res"
 {
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-40"
-		"ypos"			"c95"
-		"wide"			"110"
+		"xpos"			"c0"
+		"ypos"			"c100"
+		"wide"			"75"
 		"tall"			"50"
 		"MeterFG"		"shWhite"
 		"MeterBG"		"shGray"
