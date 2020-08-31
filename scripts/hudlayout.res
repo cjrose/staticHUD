@@ -89,4 +89,106 @@
 		"wide"			"200"
 		"tall"			"300"
 	}
+
+	HudDeathNotice
+	{
+		"fieldName" "HudDeathNotice"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"	 "r640"
+		"ypos"	 "25"
+		"wide"	 "628"
+		"tall"	 "468"
+
+		"MaxDeathNotices" "8"
+		"IconScale"	  "0.15"
+		"LineHeight"	  "14"
+		"LineSpacing"	  "0"
+		"CornerRadius"	  "0"
+		"RightJustify"	  "1"	// If 1, draw notices from the right
+		
+		"TextFont"		"u12"
+		
+		"TeamBlue"		"HUDBlueTeamSolid"
+		"TeamRed"		"HUDRedTeamSolid"
+		"IconColor"		"shWhite"
+		"LocalPlayerColor"	"shBlack"
+
+		"BaseBackgroundColor"	"shBlackOpacity"
+		"LocalBackgroundColor"	"shWhiteOpacity"
+	}
+
+	CMainTargetID
+	{
+		"fieldName" 	"CMainTargetID"
+		"visible" 	"0"
+		"enabled" 	"1"
+		"xpos"		"c-126"
+		"ypos"		"c140"
+		"wide"	 	"252"
+		"tall"	 	"35"
+		"priority"	"40"
+		"priority_lodef"	"5"
+
+		if_vr
+		{
+			"ypos"		"370"
+			"x_offset"	"20"
+		}
+	}
+
+	CSecondaryTargetID
+	{
+		"fieldName" 	"CSecondaryTargetID"
+		"visible" 	"0"
+		"enabled" 	"1"
+		"xpos"		"c-126"
+		"ypos"		"c50"
+		"wide"	 	"252"
+		"tall"	 	"35"
+		"priority"	"35"
+
+		if_vr
+		{
+			"ypos"		"330"
+			"x_offset"	"20"
+		}
+
+	}
+
+	CHudAccountPanel
+	{
+		"fieldName"				"CHudAccountPanel"
+		"xpos"					"c-55"
+		"ypos"					"c50"
+		"wide"					"110"
+		"tall"  				"200"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
+	}
+
+	WinPanel
+	{
+		"fieldName"				"WinPanel"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"c-149"
+		"ypos"					"r179"
+		"wide"					"300"
+		"tall"					"250"
+		"zpos"					"4"
+		"proportionaltoparent"	"1"
+	}
+
+	HudTeamGoal
+	{
+		"fieldName"				"HudTeamGoal"
+		"visible"				"0"
+		"enabled"				"0"
+		"xpos"					"9999"
+		"ypos"					"9999"
+		"wide"					"0"
+		"tall"					"0"
+	}
 }

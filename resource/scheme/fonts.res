@@ -27,6 +27,7 @@ Scheme
 				"antialias"	"0"
 			}
 		}
+
 		"tbf8"
 		{
 			"1"
@@ -145,6 +146,134 @@ Scheme
 			}
 		}
 
+		"u8"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"8"
+				"antialias"		"1"
+			}
+		}
+		"u10"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"10"
+				"antialias"		"1"
+			}
+		}
+		"u12"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"12"
+				"antialias"		"1"
+			}
+		}
+		"u14"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"14"
+				"antialias"		"1"
+			}
+		}
+		"u16"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"16"
+				"antialias"		"1"
+			}
+		}
+		"u20"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"20"
+				"antialias"		"1"
+			}
+		}
+		"u24"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"24"
+				"antialias"		"1"
+			}
+		}
+		"u28"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"28"
+				"antialias"		"1"
+			}
+		}
+		"u32"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"32"
+				"antialias"		"1"
+			}
+		}
+		"u36"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"36"
+				"antialias"		"1"
+			}
+		}
+		"u40"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"40"
+				"antialias"		"1"
+			}
+		}
+		"u44"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"44"
+				"antialias"		"1"
+			}
+		}
+		"u48"
+		{
+			"1"
+			{
+				"name"			"Ubuntu"
+				"tall"			"48"
+				"antialias"		"1"
+			}
+		}
+
+		"tbf14Outline"
+		{
+			"1"
+			{
+				"name"			"The Bold Font"
+				"tall"			"14"
+				"antialias"		"1"
+				"outline"		"1"
+			}
+		}
 		"tbfDamageNormal"
 		{
 			"1"

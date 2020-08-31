@@ -11,3 +11,6 @@ https://design.ubuntu.com/font/
 JarateKing - BaseHUD tools and hud reference (absolute legend)
 https://github.com/JarateKing/BaseHud
 https://github.com/JarateKing/TF2-Hud-Reference
+
+Valve - TF2 Artwork
+https://www.teamfortress.com/artwork.php

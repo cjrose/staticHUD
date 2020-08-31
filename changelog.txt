@@ -1,6 +1,24 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Alpha 8.31.2020
+----------------------------------------------
++ Added the killfeed
++ Added target IDs
++ Added engineer metal count
++ Added manmelter and frontier justice labels
++ Moved the chat
++ Added winpanel
++ Added spectator hud
++ Added class selection
++ Added MOTD
++ Added map info screen
++ Added intro movie screen
++ Added team select menu
+~ Removed team goal message
+
+
+----------------------------------------------
 		Alpha 8.29.2020
 ----------------------------------------------
 + Added the rest of the item meters (I think)

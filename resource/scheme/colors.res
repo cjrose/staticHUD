@@ -4,13 +4,17 @@ Scheme
 	Colors
 	{
 		// custom colors
+		"shYellow"			"255 255 153 255"
 		"shWhite"			"255 255 255 255"
 		"shBlack"			"0 0 0 255"
 		"shGray"			"100 100 100 255"
 		"shGrayOpacity"		"100 100 100 150"
 		"shBlackOpacity"	"0 0 0 150"
+		"shBlackOpacityLess""0 0 0 225" 
+		"shWhiteOpacity"	"255 255 255 150"
 		
 		"shHPNormal"		"22 154 86 255"
+		"shHPLow"			"220 128 128 255"
 		"shHPBackground"	"0 0 0 153"
 		"shOverheal"		"115 254 239 255"
 

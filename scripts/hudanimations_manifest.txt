@@ -4,7 +4,8 @@ hudanimations_manifest
 	"file"		"scripts/hudanimations.txt"
 
 	"file"		"scripts/hudanimations_ammoandhealth.txt"
-	"file"		"scripts/hudanimations_nospyoutline.txt"
+	"file"		"scripts/hudanimations_removeannoyinganims.txt"
+	"file"		"scripts/hudanimations_chatoverride.txt"
 	"file"		"scripts/hudanimations_ubercharge.txt"
 
 	"file"		"defaulthud/scripts/hudanimations_tf.txt"
