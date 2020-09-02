@@ -1,6 +1,15 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Alpha 9.01.2020
+----------------------------------------------
++ Added health account
++ Added scoreboard
+~ Changed some of the color formatting to future-proof hud customization
+~ fixed stalemate winpanel
+
+
+----------------------------------------------
 		Alpha 8.31.2020
 ----------------------------------------------
 + Added the killfeed

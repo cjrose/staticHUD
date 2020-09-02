@@ -143,7 +143,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"c50"
+		"ypos"		"c40"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"priority"	"35"
@@ -154,6 +154,21 @@
 			"x_offset"	"20"
 		}
 
+	}
+
+	CSpectatorTargetID
+	{
+		"fieldName" 	"CSpectatorTargetID"
+		"visible" 	"0"
+		"enabled" 	"1"
+		"xpos"		"c-126"
+		"ypos"		"c140"
+		"wide"	 	"252"
+		"tall"	 	"35"
+		"priority"	"40"
+		
+		"x_offset" "20"
+		"y_offset" "20"
 	}
 
 	CHudAccountPanel
@@ -190,5 +205,17 @@
 		"ypos"					"9999"
 		"wide"					"0"
 		"tall"					"0"
+	}
+
+	CHealthAccountPanel
+	{
+		"fieldName"				"CHealthAccountPanel"
+		"xpos"					"c-175"
+		"ypos"					"c0"
+		"wide"					"200"
+		"tall"  				"200"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
 	}
 }

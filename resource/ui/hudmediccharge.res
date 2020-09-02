@@ -115,7 +115,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor_override"	"shHPNormal"
+		"fgcolor_override"	"shGreen"
 		"fgcolor_override"	"shGrayOpacity"
 	}		
 

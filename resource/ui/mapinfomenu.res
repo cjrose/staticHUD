@@ -69,7 +69,7 @@
 			"tall"			"2"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"shHPNormal"
+			"fillcolor"		"shGreen"
 		}
 
 		"rightBar"
@@ -83,7 +83,7 @@
 			"tall"			"330"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"shHPNormal"
+			"fillcolor"		"shGreen"
 		}
 
 		"leftBar"
@@ -97,7 +97,7 @@
 			"tall"			"330"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"shHPNormal"
+			"fillcolor"		"shGreen"
 		}
 
 		"bottomBar"
@@ -111,7 +111,7 @@
 			"tall"			"2"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"shHPNormal"
+			"fillcolor"		"shGreen"
 		}
 	}
 	

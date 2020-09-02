@@ -8,7 +8,7 @@
 		"text_x"				"20"
 		"text_y"				"0"
 		"delta_item_end_y"		"0"
-		"PositiveColor"			"shHPNormal"
+		"PositiveColor"			"shGreen"
 		"NegativeColor"			"shWhite"
 		"delta_lifetime"		"1.2"
 		"delta_item_font"		"tbfDamageNormal"

@@ -4,6 +4,48 @@ Scheme
 	// describes all the border types
 	Borders
 	{
+		// staticHUD borders
+
+		shBorderDefault
+		{
+			"inset"	"0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color"		"shGreen"
+					"offset"	"0 0"
+				}
+			}
+			Right
+			{
+				"1"
+				{
+					"color" "shGreen"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "shGreen"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "shGreen"
+					"offset" "0 0"
+				}
+			}
+		}
+
+
 		NoBorder
 		{
 			"inset" "0 0 0 0"
@@ -326,8 +368,8 @@ Scheme
 			"image"					"../hud/color_panel_brown_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorder
 		{
@@ -337,8 +379,8 @@ Scheme
 			"image"					"../hud/color_panel_brown"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderRedBGOpaque
 		{
@@ -348,8 +390,8 @@ Scheme
 			"image"					"../hud/color_panel_red_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderRedBGOpaque_Store
 		{
@@ -359,8 +401,8 @@ Scheme
 			"image"					"../hud/color_panel_red_opaque"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
-			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"11"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderRedBG
 		{
@@ -414,8 +456,8 @@ Scheme
 			"image"					"../hud/color_panel_blu_opaque"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		TFFatLineBorderClearBG
 		{
@@ -425,8 +467,8 @@ Scheme
 			"image"					"../hud/color_panel_clear"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 
 		ToolTipBorder

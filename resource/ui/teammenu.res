@@ -117,7 +117,7 @@
 			"tall"			"2"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"shHPNormal"
+			"fillcolor"		"shGreen"
 		}
 
 		"leftBar"
@@ -131,7 +131,7 @@
 			"tall"			"125"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"shHPNormal"
+			"fillcolor"		"shGreen"
 		}
 
 		"rightBar"
@@ -145,7 +145,7 @@
 			"tall"			"125"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"shHPNormal"
+			"fillcolor"		"shGreen"
 		}
 
 		"bottomBar"
@@ -159,7 +159,7 @@
 			"tall"			"2"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"shHPNormal"
+			"fillcolor"		"shGreen"
 		}
 
 		"midBar"
@@ -173,7 +173,7 @@
 			"tall"			"2"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"shHPNormal"
+			"fillcolor"		"shGreen"
 		}
 
 		"dividingBar"
@@ -187,7 +187,7 @@
 			"tall"			"99"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"shHPNormal"
+			"fillcolor"		"shGreen"
 		}
 	}
 
@@ -506,6 +506,32 @@
 		"brighttext"	"0"
 		"font"			"tbf24"
 		"fgcolor"		"shWhite"
+
+		"pin_to_sibling"		"TeamMenuBackground"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+	}
+
+	"TeamMenuSelectShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"TeamMenuSelectShadow"
+		"xpos"			"-2"
+		"ypos"			"23"
+		"zpos"			"6"
+		"wide"			"450"
+		"tall"			"30"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"visible_lodef"		"0"
+		"enabled"		"1"
+		"labelText"		"#TF_SelectATeam"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"tbf24"
+		"fgcolor"		"shBlack"
 
 		"pin_to_sibling"		"TeamMenuBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -972,7 +998,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"HighlanderLabelShadow"
-		"xpos"			"19"
+		"xpos"			"21"
 		"ypos"			"30"
 		"zpos"			"6"
 		"wide"			"100"

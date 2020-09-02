@@ -38,13 +38,34 @@
 		"fieldName"			"PickYourClass"
 		"xpos"				"200"
 		"ypos"				"50"
-		"zpos"				"0"
+		"zpos"				"2"
 		"wide"				"200"
 		"tall"				"75"
 		"textAlignment"		"center"
 		"labelText"			"Pick Your Class"
 		"font"				"tbf24"
 		"fgcolor"			"shWhite"
+		"visible"			"1"
+		"enabled"			"1"
+
+		"pin_to_sibling"		"SelectionBackground"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner" "PIN_TOPLEFT" 
+	}
+
+	"PickYourClassShadow"
+	{
+		"ControlName"		"Label"
+		"fieldName"			"PickYourClassShadow"
+		"xpos"				"198"
+		"ypos"				"48"
+		"zpos"				"1"
+		"wide"				"200"
+		"tall"				"75"
+		"textAlignment"		"center"
+		"labelText"			"Pick Your Class"
+		"font"				"tbf24"
+		"fgcolor_override"			"shBlack"
 		"visible"			"1"
 		"enabled"			"1"
 
@@ -78,7 +99,7 @@
 		"tall"				"p0.691"
 		"visible"			"1"
 		"enabled"			"1"
-		"fillcolor"			"shHPNormal"
+		"fillcolor"			"shGreen"
 
 		"pin_to_sibling"			"SelectionBackground"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -139,7 +160,7 @@
 			"tall"				"2"
 			"visible"			"1"
 			"enabled"			"1"
-			"fillcolor"			"shHPNormal"
+			"fillcolor"			"shGreen"
 		}
 
 		"LeftBorder"
@@ -153,7 +174,7 @@
 			"tall"				"330"
 			"visible"			"1"
 			"enabled"			"1"
-			"fillcolor"			"shHPNormal"
+			"fillcolor"			"shGreen"
 		}
 
 		"RightBorder"
@@ -166,7 +187,7 @@
 			"tall"				"330"
 			"visible"			"1"
 			"enabled"			"1"
-			"fillcolor"			"shHPNormal"
+			"fillcolor"			"shGreen"
 		}
 
 		"OffensiveLine"
@@ -179,7 +200,7 @@
 			"tall"				"2"
 			"visible"			"1"
 			"enabled"			"1"
-			"fillcolor"			"shHPNormal"
+			"fillcolor"			"shGreen"
 		}
 
 		"DefensiveLine"
@@ -192,7 +213,7 @@
 			"tall"				"2"
 			"visible"			"1"
 			"enabled"			"1"
-			"fillcolor"			"shHPNormal"
+			"fillcolor"			"shGreen"
 		}
 
 		"SupportLine"
@@ -205,7 +226,7 @@
 			"tall"				"2"
 			"visible"			"1"
 			"enabled"			"1"
-			"fillcolor"			"shHPNormal"
+			"fillcolor"			"shGreen"
 		}
 
 		"BottomLine"
@@ -218,7 +239,7 @@
 			"tall"				"2"
 			"visible"			"1"
 			"enabled"			"1"
-			"fillcolor"			"shHPNormal"
+			"fillcolor"			"shGreen"
 		}
 	}
 
