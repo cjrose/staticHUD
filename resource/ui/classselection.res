@@ -92,33 +92,16 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"TFPlayerModelBackground"
-		"xpos"				"200"
+		"xpos"				"198"
 		"ypos"				"0"
 		"zpos"				"0"
 		"wide"				"200"
 		"tall"				"p0.691"
 		"visible"			"1"
 		"enabled"			"1"
-		"fillcolor"			"shGreen"
 
-		"pin_to_sibling"			"SelectionBackground"
-		"pin_corner_to_sibling"		"PIN_TOPLEFT"
-		"pin_to_sibling_corner"		"PIN_TOPLEFT"
-	}
+		"border"			"shBorderInverseOpacityLess"
 
-	"TFPlayerModelBackground2"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"TFPlayerModelBackground2"
-		"xpos"				"198"
-		"ypos"				"-2"
-		"zpos"				"1"
-		"wide"				"198"
-		"tall"				"p0.6838"
-		"visible"			"1"
-		"enabled"			"1"
-		"fillcolor"			"shBlack"
-		
 		"pin_to_sibling"			"SelectionBackground"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
@@ -132,63 +115,12 @@
 		"ypos"				"c-175"
 		"zpos"				"0"
 		"wide"				"400"
-		"tall"				"350"
+		"tall"				"p0.691"
 		"visible"			"1"
 		"enabled"			"1"
 
+		"border"			"shBorderInverseOpacityLess"
 
-		"Background"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"			"Background"
-			"xpos"				"0"
-			"ypos"				"0"
-			"wide"				"450"
-			"tall"				"330"
-			"visible"			"1"
-			"enabled"			"1"
-			"fillcolor"			"shBlack"
-		}
-
-		"TopBorder"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"			"TopBorder"
-			"xpos"				"0"
-			"ypos"				"0"
-			"wide"				"450"
-			"tall"				"2"
-			"visible"			"1"
-			"enabled"			"1"
-			"fillcolor"			"shGreen"
-		}
-
-		"LeftBorder"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"			"LeftBorder"
-			"xpos"				"0"
-			"ypos"				"0"
-			"zpos"				"3"
-			"wide"				"2"
-			"tall"				"330"
-			"visible"			"1"
-			"enabled"			"1"
-			"fillcolor"			"shGreen"
-		}
-
-		"RightBorder"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"			"RightBorder"
-			"xpos"				"399"
-			"ypos"				"0"
-			"wide"				"2"
-			"tall"				"330"
-			"visible"			"1"
-			"enabled"			"1"
-			"fillcolor"			"shGreen"
-		}
 
 		"OffensiveLine"
 		{
@@ -222,19 +154,6 @@
 			"fieldName"			"BottomBorder"
 			"xpos"				"0"
 			"ypos"				"299"
-			"wide"				"450"
-			"tall"				"2"
-			"visible"			"1"
-			"enabled"			"1"
-			"fillcolor"			"shGreen"
-		}
-
-		"BottomLine"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"			"BottomLine"
-			"xpos"				"0"
-			"ypos"				"330"
 			"wide"				"450"
 			"tall"				"2"
 			"visible"			"1"

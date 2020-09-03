@@ -44,75 +44,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 
-		"background"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"background"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"0"
-			"wide"			"420"
-			"tall"			"330"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"shBlack"
-		}
-
-		"topBar"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"topBar"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"10"
-			"wide"			"420"
-			"tall"			"2"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"shGreen"
-		}
-
-		"rightBar"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"rightBar"
-			"xpos"			"419"
-			"ypos"			"0"
-			"zpos"			"10"
-			"wide"			"2"
-			"tall"			"330"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"shGreen"
-		}
-
-		"leftBar"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"leftBar"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"10"
-			"wide"			"2"
-			"tall"			"330"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"shGreen"
-		}
-
-		"bottomBar"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"bottomBar"
-			"xpos"			"0"
-			"ypos"			"328"
-			"zpos"			"10"
-			"wide"			"420"
-			"tall"			"2"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"shGreen"
-		}
+		"border"		"shBorderInverse"
 	}
 	
 	"MapInfoTitle"

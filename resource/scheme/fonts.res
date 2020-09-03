@@ -559,7 +559,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"6"
+				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -903,7 +903,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"0"
 				"additive"	"0"
 				"antialias" "1"
@@ -914,7 +914,7 @@ Scheme
 			"1"
 			{
 				"name"		"The Bold Font"
-				"tall"		"6"
+				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
 				"antialias" "1"
@@ -1029,7 +1029,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1040,7 +1040,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1051,7 +1051,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1062,7 +1062,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1361,7 +1361,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"6"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1372,7 +1372,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1383,7 +1383,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1571,7 +1571,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1582,7 +1582,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1594,7 +1594,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1692,7 +1692,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
 				"dropshadow"	"1"
@@ -1700,7 +1700,7 @@ Scheme
 			"2"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"700"
 				"yres"		"600 767"
 				"dropshadow"	"1"
@@ -1784,7 +1784,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"0"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -1795,7 +1795,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1954,7 +1954,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"600"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1965,7 +1965,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1976,7 +1976,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1988,7 +1988,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
@@ -2063,7 +2063,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2074,7 +2074,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
 			}
@@ -2084,7 +2084,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2118,7 +2118,7 @@ Scheme
 			"1"
 			{
 				"name"		"The Bold Font"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2141,7 +2141,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"0"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2152,7 +2152,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"0"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2163,7 +2163,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"0"
 				"antialias" 	"1"
 			}
@@ -2173,7 +2173,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"0"
 				"blur"		"3"
 				"additive"	"1"
@@ -2185,7 +2185,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"0"
 				"antialias" 	"1"
 			}
@@ -2289,7 +2289,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"400"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -2320,7 +2320,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"400"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -2354,7 +2354,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"800"
 				"yres"		"480 599"
 				"additive"	"0"
@@ -2409,7 +2409,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2421,7 +2421,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2432,7 +2432,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"0"
 				"antialias" 	"1"
 			}
@@ -2443,7 +2443,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"8"
+				"tall"		"12"
 				"weight"	"400"
 				"antialias" "1"
 				"additive"	"0"
@@ -2676,7 +2676,7 @@ Scheme
 			"1"
 			{
 				"name"		"Ubuntu"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" 	"1"

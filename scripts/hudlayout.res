@@ -218,4 +218,62 @@
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
 	}
+
+	StatPanel
+	{
+		"fieldName"				"StatPanel"
+		"visible"				"0"
+		"enabled"				"0"
+		"xpos"					"9999"
+		"ypos"					"9999"
+		"wide"					"266"
+		"tall"					"120"
+	}
+
+	DisguiseStatus
+	{
+		"fieldName" "DisguiseStatus"
+		"visible"	"1"
+		"enabled"	"1"
+		"xpos"		"-5"
+		"ypos"		"r60"
+		"wide"		"500"
+		"tall"		"200"
+	}
+
+	"HudMenuSpyDisguise"
+	{
+		"fieldName" 	"HudMenuSpyDisguise"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c100"
+		"ypos"			"c-10"
+		"wide"			"300"
+		"tall"			"250"
+		"PaintBackgroundType"	"0"
+	}
+
+	// "HudMenuEngyBuild"
+	// {
+	// 	"fieldName" 	"HudMenuEngyBuild"
+	// 	"visible" 		"1"
+	// 	"enabled" 		"1"
+	// 	"xpos"			"c100"
+	// 	"ypos"			"c-10"
+	// 	"wide"			"300"
+	// 	"tall"			"250"
+	// 	"PaintBackgroundType"	"0"
+	// }
+	
+	// "HudMenuEngyDestroy"
+	// {
+	// 	"fieldName" 	"HudMenuEngyDestroy"
+	// 	"visible" 		"1"
+	// 	"enabled" 		"1"
+	// 	"xpos"			"c100"
+	// 	"ypos"			"c-10"
+	// 	"wide"			"300"
+	// 	"tall"			"250"
+	// 	"PaintBackgroundType"	"0"
+	// }
 }

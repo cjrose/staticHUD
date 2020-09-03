@@ -1,0 +1,7 @@
+"unlitGeneric"
+{
+	"$baseTexture" "vgui/replay/thumbnails/border/border_default_opacity"
+	"$translucent" 1
+	"$ignorez" 1
+	"$vertexcolor" 1
+}

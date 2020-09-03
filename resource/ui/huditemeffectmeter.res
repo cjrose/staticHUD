@@ -86,5 +86,6 @@
 		"brighttext"			"0"
 		"fgcolor_override"		"shWhite"
 		"bgcolor_override"		"shGray"
+		"border"				"shBorderDefault"
 	}
 }

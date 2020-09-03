@@ -4,24 +4,31 @@ Scheme
 	Colors
 	{
 		// custom colors
+
+		// opaque colors
 		"shYellow"			"255 255 153 255"
 		"shWhite"			"255 255 255 255"
 		"shBlack"			"0 0 0 255"
 		"shGreen"			"22 154 86 255"
 		"shGray"			"100 100 100 255"
-		"shGrayOpacity"		"100 100 100 150"
-		"shGreenOpacity"	"22 154 86 150"
-		"shGreenOpacityLess" "22 154 86 225"
-		"shBlackOpacity"	"0 0 0 150"
-		"shBlackOpacityLess""0 0 0 225" 
-		"shWhiteOpacity"	"255 255 255 150"
 		"shRed"				"220 128 128 255"
 		"shLightBlue"		"115 254 239 255"
-		
 		"shHPNormal"		"22 154 86 255"
 		"shHPLow"			"220 128 128 255"
 		"shHPBackground"	"0 0 0 153"
 		"shOverheal"		"115 254 239 255"
+
+		// 60% transparency
+		"shGrayOpacity"		"100 100 100 150"
+		"shGreenOpacity"	"22 154 86 150"
+		"shBlackOpacity"	"0 0 0 150"
+		"shWhiteOpacity"	"255 255 255 150"
+
+		// 85% transparency
+		"shGreenOpacityLess" "22 154 86 225"
+		"shWhiteOpacityLess""255 255 255 225"
+		"shBlackOpacityLess""0 0 0 225" 
+		
 
 		// base colors
 		"Orange"			"178 82 22 255"

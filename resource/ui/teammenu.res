@@ -92,75 +92,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 
-		"background"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"background"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"-1"
-			"wide"			"300"
-			"tall"			"125"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"shBlack"
-		}
-
-		"topBar"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"topBar"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"0"
-			"wide"			"300"
-			"tall"			"2"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"shGreen"
-		}
-
-		"leftBar"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"leftBar"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"0"
-			"wide"			"2"
-			"tall"			"125"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"shGreen"
-		}
-
-		"rightBar"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"rightBar"
-			"xpos"			"299"
-			"ypos"			"0"
-			"zpos"			"0"
-			"wide"			"2"
-			"tall"			"125"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"shGreen"
-		}
-
-		"bottomBar"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"bottomBar"
-			"xpos"			"0"
-			"ypos"			"124"
-			"zpos"			"0"
-			"wide"			"300"
-			"tall"			"2"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"shGreen"
-		}
+		"border"		"shBorderInverseOpacityLess"
 
 		"midBar"
 		{
@@ -169,7 +101,7 @@
 			"xpos"			"0"
 			"ypos"			"99"
 			"zpos"			"0"
-			"wide"			"300"
+			"wide"			"299"
 			"tall"			"2"
 			"visible"		"1"
 			"enabled"		"1"

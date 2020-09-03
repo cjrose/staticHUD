@@ -1,6 +1,17 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Alpha 9.02.2020
+----------------------------------------------
++ Added element borders, replacing the previous image panel implementation
++ Added disguise status
++ Added last damage hit values
++ Added disguise menu
+~ Removed on the bright side messages
+~ Increased the size of some fonts
+
+
+----------------------------------------------
 		Alpha 9.01.2020
 ----------------------------------------------
 + Added health account
