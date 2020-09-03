@@ -113,7 +113,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"alpha"			"0"
-		"fillcolor"		"shOverheal"
+		"fillcolor"		"shHPOverheal"
 	}
 	"PlayerStatusHealthBonusImage"
 	{

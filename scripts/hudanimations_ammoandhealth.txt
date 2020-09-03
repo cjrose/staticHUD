@@ -6,7 +6,7 @@ event HudHealthBonusPulse
 	Animate HealthBarOverhealed	Alpha	"255"	Linear 0.0 0.3
 	Animate HealthBarOverhealed Alpha 	"0"		Linear 0.3 0.6
 
-	Animate SpecGUIHealthValue FgColor	"shOverheal"	Linear 0.0 0.0001
+	Animate SpecGUIHealthValue FgColor	"shHPOverheal"	Linear 0.0 0.0001
 
 	RunEvent HudHealthBonusPulseLoop	0.6
 }
@@ -48,18 +48,6 @@ event HudHealthDyingPulseStop
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"		Linear 0.0 0.0001
 
 	Animate SpecGUIHealthValue				FgColor		"shWhite"		Linear 0.0 0.0001
-}
-
-
-// fixes lingering color changes
-event HudSnapShotReminderIn
-{
-    RunEvent DefaultAnimHudSnapShotReminderIn 0.0
-
-    RunEvent HudHealthDyingPulseStop 0.0
-    RunEvent HudHealthBonusPulseStop 0.0
-    RunEvent HudLowAmmoPulseStop 0.0
-    RunEvent HudMedicChargedStop 0.0
 }
 
 //===========================================

@@ -1,6 +1,19 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Alpha 9.03.2020
+----------------------------------------------
++ Added engineer build/destroy menu
++ Added engineer eureka effect menu
++ Added engineer pipboy menus
++ Added engineer building status
++ Added freeze cam
++ Added spy sapping status
+~ Adjusted the fonts
+~ Adjusted the coloring of the spy disguises
+
+
+----------------------------------------------
 		Alpha 9.02.2020
 ----------------------------------------------
 + Added element borders, replacing the previous image panel implementation

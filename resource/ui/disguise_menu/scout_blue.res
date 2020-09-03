@@ -1,4 +1,5 @@
 #base "../../../defaulthud/resource/ui/disguise_menu/scout_blue.res"
+#base "blue_class.res"
 
 "Resource/UI/disguise_menu/scout_blue.res"
 {
@@ -20,25 +21,6 @@
 		"textAlignment"	"Center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-	}
-
-	"ClassBG"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"ClassBG"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"40"
-		"tall"			"40"
-		"visible"		"1"
-		"enabled"		"1"
-		"border"		"shBorderSpy"
-		"fillcolor"		"blue"
-
-		"pin_to_sibling"		"ItemNameLabel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
 	"ClassImage"

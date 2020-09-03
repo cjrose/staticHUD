@@ -443,7 +443,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"AdvancingTeamLabel"
-		"font"			"u12"
+		"font"			"u10"
 		"xpos"			"50"
 		"ypos"			"47"
 		"zpos"			"1"
@@ -463,7 +463,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"AdvancingTeamLabelDropshadow"
-		"font"			"u12"
+		"font"			"u10"
 		"fgcolor"		"shBlack"
 		"xpos"			"51"
 		"ypos"			"48"
@@ -483,7 +483,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinReasonLabel"
-		"font"			"ScoreboardVerySmall"
+		"font"			"u10"
 		"xpos"			"50"
 		"ypos"			"60"
 		"zpos"			"1"
@@ -502,7 +502,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"DetailsLabel"
-		"font"			"ScoreboardVerySmall"
+		"font"			"u10"
 		"xpos"			"51"
 		"ypos"			"58"
 		"zpos"			"1"
@@ -539,7 +539,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TopPlayerLabel"
-		"font"			"ScoreboardVerySmall"
+		"font"			"u10"
 		"xpos"			"52"
 		"ypos"			"75"
 		"zpos"			"3"
@@ -559,7 +559,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"PointsThisRoundLabel"
-		"font"			"ScoreboardVerySmall"
+		"font"			"u10"
 		"xpos"			"105"
 		"ypos"			"75"
 		"zpos"			"3"

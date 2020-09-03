@@ -13,38 +13,38 @@ Scheme
 		ReplayBrowser.CollectionTitle.FgColor				"LightRed"
 		ReplayBrowser.Warning.FgColor						"White"
 		ReplayBrowser.ScrollBar.SliderButton.FgColor		"TransparentYellow"
-		ReplayBrowser.Search.BgColor						"TanDark"
+		ReplayBrowser.Search.BgColor						"shBlack"
 		ReplayBrowser.Search.FgColor						"White"
 		
 		Replay.RenderDialog.BgColor							"LighterDarkBrown"
 		
 		Econ.Dialog.BgColor									"Blank"
-		Econ.Button.BgColor									"TanDark"
-		Econ.Button.FgColor									"TanLight"
+		Econ.Button.BgColor									"shBlack"
+		Econ.Button.FgColor									"shWhite"
 		Econ.Button.ArmedBgColor							"TFOrange"
-		Econ.Button.ArmedFgColor							"TanLight"
+		Econ.Button.ArmedFgColor							"shWhite"
 		Econ.Button.DepressedBgColor						"TFOrange"
-		Econ.Button.DepressedFgColor						"Black"
+		Econ.Button.DepressedFgColor						"shBlack"
 		
-		Econ.Button.PresetDefaultColorFg					"TanLight"
-		Econ.Button.PresetArmedColorFg						"TanLight"
-		Econ.Button.PresetDepressedColorFg					"TanLight"
+		Econ.Button.PresetDefaultColorFg					"shWhite"
+		Econ.Button.PresetArmedColorFg						"shWhite"
+		Econ.Button.PresetDepressedColorFg					"shWhite"
 		
 		Econ.Button.PresetDefaultColorBg					"LighterRed"
 		Econ.Button.PresetArmedColorBg						"LightRed"
 		Econ.Button.PresetDepressedColorBg					"TFOrange"
 		
 		Border.Bright					"Blank"		// the lit side of a control
-		Border.Dark						"Black"		// the dark/unlit side of a control
-		Border.Selection				"Gray"			// the additional border color for displaying the default/selected button
+		Border.Dark						"shBlack"		// the dark/unlit side of a control
+		Border.Selection				"shGray"			// the additional border color for displaying the default/selected button
 
-		Button.TextColor				"TanLight"
-		Button.BgColor					"TanDark"
-		Button.ArmedTextColor			"TanLight"
+		Button.TextColor				"shWhite"
+		Button.BgColor					"shBlack"
+		Button.ArmedTextColor			"shWhite"
 		Button.ArmedBgColor				"TFOrange"
-		Button.SelectedTextColor		"TanLight"
+		Button.SelectedTextColor		"shWhite"
 		Button.SelectedBgColor			"TFOrange"
-		Button.DepressedTextColor		"Black"
+		Button.DepressedTextColor		"shBlack"
 		Button.DepressedBgColor			"TFOrange"
 
 		CheckButton.TextColor			"Yellow"
@@ -55,8 +55,8 @@ Scheme
 		CheckButton.Check				"Yellow"		// color of the check itself
 		CheckButton.HighlightFgColor	"Yellow"
 		
-		ComboBoxButton.ArrowColor		"TanLight"
-		ComboBoxButton.ArmedArrowColor	"TanLight"
+		ComboBoxButton.ArrowColor		"shWhite"
+		ComboBoxButton.ArmedArrowColor	"shWhite"
 		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
 
@@ -85,30 +85,30 @@ Scheme
 		GraphPanel.FgColor				"Orange"
 		GraphPanel.BgColor				"TransparentBlack"
 
-		Label.TextDullColor				"TanDark"
-		Label.TextColor					"TanLight"
-		Label.TextBrightColor			"TanLight"
+		Label.TextDullColor				"shBlack"
+		Label.TextColor					"shWhite"
+		Label.TextBrightColor			"shWhite"
 		Label.SelectedTextColor			"White"
 		Label.BgColor					"Blank"
 		Label.DisabledFgColor1			"Blank"
-		Label.DisabledFgColor2			"Black"
+		Label.DisabledFgColor2			"shBlack"
 
 		ListPanel.TextColor					"Orange"
 		ListPanel.BgColor					"TransparentBlack"
-		ListPanel.SelectedTextColor			"Black"
-		ListPanel.SelectedBgColor			"Red"
-		ListPanel.SelectedOutOfFocusBgColor	"Red"
+		ListPanel.SelectedTextColor			"shBlack"
+		ListPanel.SelectedBgColor			"shRed"
+		ListPanel.SelectedOutOfFocusBgColor	"shRed"
 		ListPanel.EmptyListInfoTextColor	"Orange"
 
-		Menu.TextColor					"TanLight"
+		Menu.TextColor					"shWhite"
 		Menu.BgColor					"TransparentBlack"
-		Menu.ArmedTextColor				"TanDark"
-		Menu.ArmedBgColor				"TanLight"
+		Menu.ArmedTextColor				"shBlack"
+		Menu.ArmedBgColor				"shWhite"
 		Menu.TextInset					"6"
 
 		Chat.TypingText					"Orange"
 
-		Panel.FgColor					"Gray"
+		Panel.FgColor					"shGray"
 		Panel.BgColor					"Blank"
 
 		HTML.BgColor					"Blank"
@@ -130,30 +130,30 @@ Scheme
 		RadioButton.TextColor			"Orange"
 		RadioButton.SelectedTextColor	"Orange"
 
-		RichText.TextColor				"Gray"
+		RichText.TextColor				"shGray"
 		RichText.BgColor				"Blank"
-		RichText.SelectedTextColor		"Gray"
-		RichText.SelectedBgColor		"Red"
+		RichText.SelectedTextColor		"shGray"
+		RichText.SelectedBgColor		"shRed"
 
-		ScrollBarButton.FgColor				"Gray"
+		ScrollBarButton.FgColor				"shGray"
 		ScrollBarButton.BgColor				"Blank"
-		ScrollBarButton.ArmedFgColor		"Gray"
+		ScrollBarButton.ArmedFgColor		"shGray"
 		ScrollBarButton.ArmedBgColor		"Blank"
-		ScrollBarButton.DepressedFgColor	"Black"
+		ScrollBarButton.DepressedFgColor	"shBlack"
 		ScrollBarButton.DepressedBgColor	"Blank"
 
-		ScrollBarSlider.FgColor				"Gray"		// nob color
+		ScrollBarSlider.FgColor				"shGray"		// nob color
 		ScrollBarSlider.BgColor				"Blank"		// slider background color
 
 		SectionedListPanel.HeaderTextColor	"Orange"
 		SectionedListPanel.HeaderBgColor	"Blank"
-		SectionedListPanel.DividerColor		"Black"
+		SectionedListPanel.DividerColor		"shBlack"
 		SectionedListPanel.TextColor		"Orange"
 		SectionedListPanel.BrightTextColor	"Orange"
 		SectionedListPanel.BgColor			"TransparentLightBlack"
-		SectionedListPanel.SelectedTextColor			"Black"
-		SectionedListPanel.SelectedBgColor				"Red"
-		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
+		SectionedListPanel.SelectedTextColor			"shBlack"
+		SectionedListPanel.SelectedBgColor				"shRed"
+		SectionedListPanel.OutOfFocusSelectedTextColor	"shBlack"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"255 255 255 32"
 
 		Slider.NobColor				"108 108 108 255"
@@ -162,20 +162,20 @@ Scheme
 		Slider.DisabledTextColor1	"117 117 117 255"
 		Slider.DisabledTextColor2	"30 30 30 255"
 
-		TextEntry.TextColor			"Gray"
+		TextEntry.TextColor			"shGray"
 		TextEntry.BgColor			"Blank"
-		TextEntry.CursorColor		"Gray"
-		TextEntry.DisabledTextColor	"Gray"
+		TextEntry.CursorColor		"shGray"
+		TextEntry.DisabledTextColor	"shGray"
 		TextEntry.DisabledBgColor	"Blank"
-		TextEntry.SelectedTextColor	"TanLight"
-		TextEntry.SelectedBgColor	"Gray"
+		TextEntry.SelectedTextColor	"shWhite"
+		TextEntry.SelectedBgColor	"shGray"
 		TextEntry.OutOfFocusSelectedBgColor	"Blank"
 		TextEntry.FocusEdgeColor	"Blank"
 
 		ToggleButton.SelectedTextColor	"Orange"
 
 		Tooltip.TextColor			"TransparentBlack"
-		Tooltip.BgColor				"Red"
+		Tooltip.BgColor				"shRed"
 
 		TreeView.BgColor			"TransparentBlack"
 
@@ -206,7 +206,7 @@ Scheme
 		"TeamRed"			"255 64 64 255"
 		"TeamBlue"			"153 204 255 255"
 
-		"MapDescriptionText"	"Gray" // the text used in the map description window
+		"MapDescriptionText"	"shGray" // the text used in the map description window
 		"HudIcon_Green"		"0 160 0 255"
 		"HudIcon_Red"		"160 0 0 255"
 

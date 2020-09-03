@@ -5,10 +5,10 @@
 event HudMedicCharged
 {
 	Animate	ChargeLabel 	FgColor		"shGreen"		Linear 0.0 0.2
-	Animate	ChargeLabel 	FgColor		"shOverheal"		Linear 0.4 0.6
+	Animate	ChargeLabel 	FgColor		"shHPOverheal"		Linear 0.4 0.6
 	
 	Animate	ChargeMeter 	FgColor		"shGreen"		Linear 0.0 0.2
-	Animate	ChargeMeter 	FgColor		"shOverheal"		Linear 0.4 0.6
+	Animate	ChargeMeter 	FgColor		"shHPOverheal"		Linear 0.4 0.6
 
 	RunEvent HudMedicChargedLoop	0.8
 }

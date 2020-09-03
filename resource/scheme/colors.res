@@ -16,7 +16,8 @@ Scheme
 		"shHPNormal"		"22 154 86 255"
 		"shHPLow"			"220 128 128 255"
 		"shHPBackground"	"0 0 0 153"
-		"shOverheal"		"115 254 239 255"
+		"shHPOverheal"		"115 254 239 255"
+		"shAmmoLow"			"214 99 27 255"
 
 		// 60% transparency
 		"shGrayOpacity"		"100 100 100 150"

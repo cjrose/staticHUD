@@ -100,7 +100,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 
-		"border"			"shBorderInverseOpacityLess"
+		"border"			"shBorderInverse"
 
 		"pin_to_sibling"			"SelectionBackground"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -119,7 +119,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 
-		"border"			"shBorderInverseOpacityLess"
+		"border"			"shBorderInverse"
 
 
 		"OffensiveLine"

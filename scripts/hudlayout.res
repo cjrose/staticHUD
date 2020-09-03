@@ -253,27 +253,76 @@
 		"PaintBackgroundType"	"0"
 	}
 
-	// "HudMenuEngyBuild"
-	// {
-	// 	"fieldName" 	"HudMenuEngyBuild"
-	// 	"visible" 		"1"
-	// 	"enabled" 		"1"
-	// 	"xpos"			"c100"
-	// 	"ypos"			"c-10"
-	// 	"wide"			"300"
-	// 	"tall"			"250"
-	// 	"PaintBackgroundType"	"0"
-	// }
+	"HudMenuEngyBuild"
+	{
+		"fieldName" 	"HudMenuEngyBuild"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c100"
+		"ypos"			"c30"
+		"wide"			"300"
+		"tall"			"250"
+		"PaintBackgroundType"	"0"
+	}
 	
-	// "HudMenuEngyDestroy"
-	// {
-	// 	"fieldName" 	"HudMenuEngyDestroy"
-	// 	"visible" 		"1"
-	// 	"enabled" 		"1"
-	// 	"xpos"			"c100"
-	// 	"ypos"			"c-10"
-	// 	"wide"			"300"
-	// 	"tall"			"250"
-	// 	"PaintBackgroundType"	"0"
-	// }
+	"HudMenuEngyDestroy"
+	{
+		"fieldName" 	"HudMenuEngyDestroy"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c100"
+		"ypos"			"c30"
+		"wide"			"300"
+		"tall"			"250"
+		"PaintBackgroundType"	"0"
+	}
+
+	"HudEurekaEffectTeleportMenu"
+	{
+		"fieldName" 	"HudEurekaEffectTeleportMenu"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c100"
+		"ypos"			"c50"
+		"wide"			"300"
+		"tall"			"250"
+		"PaintBackgroundType"	"0"
+	}
+
+	BuildingStatus_Spy
+	{
+		"fieldName" "BuildingStatus_Spy"
+		"visible"	"1"
+		"enabled"	"1"
+		"xpos"		"0"
+		"ypos"		"0"	
+		"wide"		"640"
+		"tall"		"480"
+		
+		"PaintBackgroundType"	"2"
+	}
+	
+	BuildingStatus_Engineer
+	{
+		"fieldName" "BuildingStatus_Engineer"
+		"visible"	"1"
+		"enabled"	"1"
+		"xpos"		"0"
+		"ypos"		"0"
+		"wide"		"640"
+		"tall"		"480"
+		
+		"PaintBackgroundType"	"2"
+	}
+
+	FreezePanel
+	{
+		"fieldName"				"FreezePanel"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"0"
+		"ypos"					"0"
+		"wide"					"f0"
+		"tall"					"480"
+	}
 }

@@ -104,7 +104,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"alpha"			"0"
-		"fillcolor"		"Orange"
+		"fillcolor"		"shAmmoLow"
 	}
 
 	"AmmoInClip"
