@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "vgui/replay/thumbnails/demoman/ico_stickybomb_red"
+	"$baseTexture" "vgui\replay\thumbnails\stickybomb\ico_stickybomb_red"
 	"$vertexalpha" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

@@ -23,6 +23,11 @@
 		"brighttext"	"0"
 	}
 
+	"ClassBG"
+	{
+		
+	}
+
 	"ClassImage"
 	{
 		"ControlName"	"CTFImagePanel"

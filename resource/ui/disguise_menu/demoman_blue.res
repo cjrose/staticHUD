@@ -23,6 +23,11 @@
 		"brighttext"	"0"
 	}
 
+	"ClassBG"
+	{
+		
+	}
+
 	"ClassImage"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -50,8 +55,8 @@
 		"fieldName"		"NumberLabel"
 		"font"			"tbf12"
 		"fgcolor"		"shWhite"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"3"
+		"ypos"			"-27"
 		"zpos"			"2"
 		"wide"			"15"
 		"tall"			"15"

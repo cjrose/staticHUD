@@ -43,6 +43,11 @@
 		"pin_sibling_to_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
+
+	"ClassBG"
+	{
+		
+	}
 	
 	"NewNumberLabel"
 	{	

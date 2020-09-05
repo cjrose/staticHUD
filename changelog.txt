@@ -1,6 +1,16 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Alpha 9.05.2020
+----------------------------------------------
++ Added hud round counter
++ Added payload objective
++ Added payload race objective
+~ Updated textures for the borders
+~ Fixed spy disguise numbers not appearing
+
+
+----------------------------------------------
 		Alpha 9.03.2020
 ----------------------------------------------
 + Added engineer build/destroy menu

@@ -14,3 +14,6 @@ https://github.com/JarateKing/TF2-Hud-Reference
 
 Valve - TF2 Artwork
 https://www.teamfortress.com/artwork.php
+
+Tuddles - Payload icons (I grabbed them from the google images thumbnail)
+https://gamebanana.com/guis/32086
