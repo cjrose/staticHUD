@@ -161,7 +161,12 @@
 
 			if_mvm
 			{
-				"visible"				"0"
+				"visible"				"1"
+				"xpos"					"2"
+				"ypos"					"352"
+				"wide"					"596"
+				"tall"					"1"
+				"fillcolor"				"shBlack"
 			}
 		}
 

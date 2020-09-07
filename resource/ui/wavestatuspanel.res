@@ -13,8 +13,8 @@
 		"tall"			"35"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../HUD/tournament_panel_brown"
 
 		"src_corner_height"	"22"				// pixels inside the image
@@ -22,6 +22,25 @@
 	
 		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"0"	
+	}
+
+	"BG"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"BG"
+		"xpos"			"200"
+		"ypos"			"10"
+		"ypos_minmode"	"0"
+		"zpos"			"-1"
+		"wide"			"200"
+		"tall"			"55"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+
+		"fillcolor"		"shBlackOpacity"
+		"border"		"shBorderBlackLine"
 	}
 	
 	"WaveCountLabel"
@@ -31,7 +50,8 @@
 		"font"			"HudFontSmallestBold"
 		"fgcolor"		"shYellow"
 		"xpos"			"c-225"
-		"ypos"			"6"
+		"ypos"			"12"
+		"ypos_minmode"	"3"
 		"zpos"			"5"
 		"wide"			"200"
 		"tall"			"15"
@@ -49,7 +69,8 @@
 		"font"			"HudFontSmallestBold"
 		"fgcolor"		"shBlack"
 		"xpos"			"c-224"
-		"ypos"			"7"
+		"ypos"			"13"
+		"ypos_minmode"	"4"
 		"zpos"			"5"
 		"wide"			"200"
 		"tall"			"15"
@@ -108,7 +129,8 @@
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"ProgressBar"
 		"xpos"			"231"
-		"ypos"			"8"
+		"ypos"			"15"
+		"ypos_minmode"	"6"
 		"zpos"			"3"
 		"wide"			"138"
 		"tall"			"10"
@@ -128,7 +150,8 @@
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"ProgressBarBG"
 		"xpos"			"230"
-		"ypos"			"7"
+		"ypos"			"14"
+		"ypos_minmode"	"5"
 		"zpos"			"3"
 		"wide"			"140"
 		"tall"			"12"

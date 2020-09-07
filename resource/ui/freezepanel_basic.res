@@ -41,6 +41,7 @@
 		"itemmodelpanel"
 		{
 			"fieldName"		"itemmodelpanel"
+			"inventory_image_type" "1"
 			"use_item_rendertarget" "0"
 			"useparentbg"		"1"
 		}
@@ -108,7 +109,7 @@
 			"tall"				"33"
 			"visible"			"1"
 			"enabled"			"1"
-			"border"			"shBorderSpy"
+			"border"			"shBorderBlackLine"
 		}
 		
 		"FreezeLabel"

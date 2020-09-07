@@ -78,7 +78,7 @@ Scheme
 			"draw_corner_height" 	"4"
 		}
 
-		shBorderSpy
+		shBorderBlackLine
 		{
 			"inset" "0 0 0 0"
 			"backgroundtype"		"2"
@@ -114,6 +114,47 @@ Scheme
 				"1"
 				{
 					"color" "shBlack"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		shBorderWhiteLine
+		{
+			"inset" "0 0 0 0"
+			"backgroundtype"		"2"
+			Left
+			{
+				"1"
+				{
+					"color" "shWhite"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "shWhite"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "shWhite"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "shWhite"
 					"offset" "0 0"
 				}
 			}

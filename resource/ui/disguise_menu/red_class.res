@@ -11,7 +11,7 @@
 		"tall"			"40"
 		"visible"		"1"
 		"enabled"		"1"
-		"border"		"shBorderSpy"
+		"border"		"shBorderBlackLine"
 		"fillcolor"		"HUDRedTeamSolid"
 
 		"pin_to_sibling"		"ItemNameLabel"

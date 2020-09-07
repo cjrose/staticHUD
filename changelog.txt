@@ -1,6 +1,18 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Beta 9.07.2020
+----------------------------------------------
++ Added minmode hud variant
++ Added custom control point icons
++ Added koth timers
++ Added autobalance panel
++ Added taunt menu
+~ Updated the MvM Scoreboard
+~ Adjusted the placement of the metal count
+
+
+----------------------------------------------
 		Alpha 9.06.2020
 ----------------------------------------------
 + Added MvM scoreboard

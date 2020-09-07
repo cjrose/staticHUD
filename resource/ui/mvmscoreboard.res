@@ -7,7 +7,8 @@
 		"ControlName"		"CWaveStatusPanel"
 		"fieldName"			"WaveStatusPanel"
 		"xpos"				"0"
-		"ypos"				"2"
+		"ypos"				"-8"
+		"ypos_minmode"		"2"
 		"zpos"				"0"
 		"wide"				"600"
 		"tall"				"67"
@@ -81,8 +82,8 @@
 		"zpos"			"-1"
 		"wide"			"525"
 		"tall"			"150"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/tournament_panel_brown"
 		
 		"scaleImage"		"1"
@@ -92,6 +93,22 @@
 	
 		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"0"	
+	}
+
+	"PlayerListBG"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"PlayerListBG"
+		"xpos"			"35"
+		"ypos"			"59"
+		"zpos"			"-1"
+		"wide"			"525"
+		"tall"			"150"
+		"visible"		"1"
+		"enabled"		"1"
+
+		"fillcolor"		"shBlackOpacity"
+		"border"		"shBorderBlackLine"
 	}
 	
 	"MvMPlayerList"
@@ -132,8 +149,8 @@
 			"tall"			"135"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"image"			"../HUD/tournament_panel_brown"
 
 			"src_corner_height"	"22"				// pixels inside the image
@@ -141,6 +158,24 @@
 		
 			"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"	
+		}
+
+		"CreditStatsBG"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"CreditStatsBG"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-1"
+			"wide"			"400"
+			"tall"			"135"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+
+			"fillcolor"		"shBlackOpacity"
+			"border"		"shBorderBlackLine"
 		}
 		
 		"CreditsLabel"

@@ -22,8 +22,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"HUDBlueTeam"
-			"border"		"shBorderSpy"
+			
+			"border"		"TFFatLineBorderBlueBGMoreOpaque"
 		}
 		"RedScoreBG"
 		{
@@ -37,8 +37,78 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"HUDRedTeam"
-			"border"		"shBorderSpy"
+
+			"border"		"TFFatLineBorderRedBGMoreOpaque"
+		}
+
+		"ScoreDivider"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"ScoreDivider"
+			"xpos"			"168"
+			"ypos"			"15"
+			"zpos"			"10"
+			"wide"			"2"
+			"tall"			"25"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"shBlack"
+		}
+
+		"PanelTopBorder"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"PanelTopBorder"
+			"xpos"			"70"
+			"ypos"			"13"
+			"zpos"			"10"
+			"tall"			"2"
+			"wide"			"200"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"shBlack"
+		}
+
+		"PanelLeftBorder"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"PanelLeftBorder"
+			"xpos"			"68"
+			"ypos"			"13"
+			"zpos"			"10"
+			"wide"			"2"
+			"tall"			"27"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"shBlack"
+		}
+
+		"PanelBottomBorder"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"PanelBottomBorder"
+			"xpos"			"68"
+			"ypos"			"39"
+			"zpos"			"10"
+			"wide"			"202"
+			"tall"			"2"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"shBlack"
+		}
+
+		"PanelRightBorder"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"PanelRightBorder"
+			"xpos"			"268"
+			"ypos"			"13"
+			"zpos"			"10"
+			"wide"			"2"
+			"tall"			"27"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"shBlack"
 		}
 
 		"BlueTeamLabel"
@@ -251,21 +321,70 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WinPanelBGBorders"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"48"
+		"ypos"			"53"
 		"zpos"			"10"
-		"wide"			"202"
-		"tall"			"124"
+		"wide"			"210"
+		"tall"			"160"
 		"visible"		"1"
 		"enabled"		"1"
 
-		"border"		"shBorderSpy"
+		"TopBorder"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"TopBorder"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"10"
+			"wide"			"202"
+			"tall"			"2"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"shBlack"
+		}
 
-		"pin_to_sibling"		"WinPanelBGBorder"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"LeftBorder"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"LeftBorder"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"10"
+			"wide"			"2"
+			"tall"			"124"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"shBlack"
+		}
+
+		"BottomBorder"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"BottomBorder"
+			"xpos"			"0"
+			"ypos"			"124"
+			"zpos"			"10"
+			"wide"			"202"
+			"tall"			"2"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"shBlack"
+		}
+
+		"RightBorder"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"RightBorder"
+			"xpos"			"200"
+			"ypos"			"0"
+			"zpos"			"10"
+			"wide"			"2"
+			"tall"			"124"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"shBlack"
+		}
 	}
-
 	"WinPanelBGBorder"
 	{
 		"ControlName"		"EditablePanel"
@@ -403,10 +522,10 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"ShadedBar"
-		"xpos"			"48"
+		"xpos"			"50"
 		"ypos"			"80"
 		"zpos"			"2"
-		"wide"			"202"
+		"wide"			"200"
 		"tall"			"97"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -463,7 +582,7 @@
 		"xpos"			"48"
 		"ypos"			"90"
 		"zpos"			"3"
-		"wide"			"202"
+		"wide"			"200"
 		"tall"			"1"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -771,7 +890,7 @@
 		"xpos"			"48"
 		"ypos"			"155"
 		"zpos"			"3"
-		"wide"			"202"
+		"wide"			"200"
 		"tall"			"1"
 		"autoResize"	"0"
 		"pinCorner"		"0"

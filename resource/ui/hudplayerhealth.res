@@ -16,6 +16,7 @@
 		"enabled"		"1"	
  		"HealthBonusPosAdj"	"240"
 		"HealthDeathWarning"	"1.0"
+    "HealthDeathWarning_minmode" "0.49"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 	}	
 	"PlayerStatusHealthImage"
@@ -48,6 +49,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"shBlack"
+
+		"visible_minmode"	"0"
 	}
 	"HealthBarLSide"
 	{
@@ -61,6 +64,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"shBlack"
+
+		"visible_minmode"	"0"
 	}
 	"HealthBarRSide"
 	{
@@ -74,6 +79,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"shBlack"
+
+		"visible_minmode"	"0"
 	}
 	"HealthBarBottom"
 	{
@@ -87,6 +94,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"shBlack"
+
+		"visible_minmode"	"0"
 	}
 	"HealthBar"
 	{
@@ -100,6 +109,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"shHPNormal"
+
+		"visible_minmode"	"0"
 	}
 	"HealthBarOverhealed"
 	{
@@ -114,6 +125,8 @@
 		"enabled"		"1"
 		"alpha"			"0"
 		"fillcolor"		"shHPOverheal"
+
+		"visible_minmode"	"0"
 	}
 	"PlayerStatusHealthBonusImage"
 	{
@@ -128,6 +141,9 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/hp/hpbar_overlay"
 		"scaleImage"	"1"
+
+		"xpos_minmode"	"9999"
+		"ypos_minmode"	"9999"
 	}
 	"PlayerStatusHealthValue"
 	{
@@ -139,11 +155,33 @@
 		"wide"			"100"
 		"tall"			"100"
 		"visible"		"1"
+		"visible_minmode"	"0"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"tbf48"
 		"fgcolor"		"shWhite"
+	}
+	"PlayerStatusHealthValueAlt"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueAlt"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"4"
+		"wide"			"100"
+		"tall"			"100"
+		"visible"		"0"
+		"visible_minmode"	"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment" "center"
+		"font"			"tbf48"
+		"fgcolor"		"shWhite"
+
+		"pin_to_sibling"		"PlayerStatusHealthValue"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 	"PlayerStatusHealthValueShadow"
 	{

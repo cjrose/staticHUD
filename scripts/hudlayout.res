@@ -175,7 +175,7 @@
 	{
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"c-55"
-		"ypos"					"c50"
+		"ypos"					"c90"
 		"wide"					"110"
 		"tall"  				"200"
 		"visible" 				"1"
@@ -324,5 +324,46 @@
 		"ypos"					"0"
 		"wide"					"f0"
 		"tall"					"480"
+	}
+
+	HudControlPointIcons
+	{
+		"fieldName"				"HudControlPointIcons"
+		"xpos"					"0"
+		"ypos"					"410"
+		"wide"					"f0"
+		"tall"					"200"
+		"visible"				"1"
+		"enabled"				"1"
+		"separator_width"		"1"	// distance between the icons (including their backgrounds)
+		"separator_height"		"1"
+		"height_offset"			"1" // distance from the bottom of the panel
+	}
+
+	HudKothTimeStatus
+	{
+		"fieldName" "HudKothTimeStatus"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"	"c-100"
+		"ypos"	"0"
+		"wide"	"200"
+		"tall"	"160"
+		
+		"blue_active_xpos"			"16"
+	
+		"red_active_xpos"			"106"
+	}
+
+	"HudMenuTauntSelection"
+	{
+		"fieldName" 	"HudMenuTauntSelection"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c-222"
+		"ypos"			"c-35"
+		"wide"			"470"
+		"tall"			"200"
+		"PaintBackgroundType"	"0"
 	}
 }

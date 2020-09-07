@@ -81,7 +81,7 @@
 		"enabled"		"1"
 		
 		"fillcolor"		"HUDBlueTeamSolid"
-		"border"		"shBorderSpy"
+		"border"		"shBorderBlackLine"
 
 		"pin_to_sibling"		"Background"
 		"pin_sibling_to_corner"	"PIN_TOPLEFT"
@@ -101,7 +101,7 @@
 		"enabled"		"1"
 
 		"fillcolor"		"HUDRedTeamSolid"
-		"border"		"shBorderSpy"
+		"border"		"shBorderBlackLine"
 
 		"pin_to_sibling"		"BlueTeamBG"
 		"pin_sibling_to_corner"	"PIN_TOPLEFT"
@@ -121,7 +121,7 @@
 		"enabled"		"1"
 
 		"fillcolor"		"shBlackOpacity"
-		"border"		"shBorderSpy"
+		"border"		"shBorderBlackLine"
 
 		"pin_to_sibling"		"BlueTeamBG"
 		"pin_sibling_to_corner"	"PIN_TOPLEFT"

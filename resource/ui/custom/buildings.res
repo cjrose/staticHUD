@@ -2,7 +2,7 @@
 {
     "Background2"
 	{
-		"ControlName"		"EditablePanel"
+		"ControlName"		"ImagePanel"
 		"fieldName"			"Background2"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -12,7 +12,9 @@
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
+		"visible_minmode"	"0"
 		"enabled"			"1"
-		"border"			"shBorderDefaultOpacity"
+		"border"			"shBorderBlackLine"
+		"fillcolor"			"shGreenOpacity"
 	}
 }

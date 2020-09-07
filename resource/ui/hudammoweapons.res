@@ -18,8 +18,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HudWeaponLowAmmoImage"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"0"
 		"wide"			"0"
 		"tall"			"0"
@@ -39,6 +39,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"shBlack"
+
+		"visible_minmode"	"0"
 	}
 	"AmmoBoxLSide"
 	{
@@ -52,6 +54,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"shBlack"
+
+		"visible_minmode"	"0"
 	}
 	"AmmoBoxRSide"
 	{
@@ -65,6 +69,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"shBlack"
+
+		"visible_minmode"	"0"
 	}
 	"AmmoBoxBottom"
 	{
@@ -78,6 +84,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"shBlack"
+
+		"visible_minmode"	"0"
 	}
 	"AmmoBG"
 	{
@@ -91,6 +99,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"shHPNormal"
+
+		"visible_minmode"	"0"
 	}
 	"AmmoLowBG"
 	{
@@ -105,6 +115,13 @@
 		"enabled"		"1"
 		"alpha"			"0"
 		"fillcolor"		"shAmmoLow"
+
+		"visible_minmode"	"1"
+		"wide_minmode"		"80"
+		"tall_minmode"		"5"
+		"xpos_minmode"		"15"
+		"ypos_minmode"		"40"
+
 	}
 
 	"AmmoInClip"
