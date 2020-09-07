@@ -25,6 +25,12 @@
 		"ping_width"		"20"
 		"killstreak_width"	"15"
 		"killstreak_image_width" "15"
+
+		if_mvm
+		{
+			"tall"			"400"
+			"wide"			"600"
+		}
 	}
 
 	"ScoreboardPanel"
@@ -45,6 +51,12 @@
 
 		"border"			"shBorderInverseOpacity"
 
+		if_mvm
+		{
+			"tall"			"400"
+			"wide"			"600"
+		}
+
 		"bluTeamBG"
 		{
 			"ControlName"		"CTFImagePanel"
@@ -64,6 +76,11 @@
 				
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"
+
+			if_mvm
+			{
+				"visible"			"0"
+			}
 		}
 
 		"teamDivider"
@@ -78,6 +95,11 @@
 			"visible"			"1"
 			"enabled"			"1"
 			"fillcolor"			"shBlackOpacity"
+
+			if_mvm
+			{
+				"visible"			"0"
+			}
 		}
 
 		"redTeamBG"
@@ -99,6 +121,11 @@
 				
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"
+
+			if_mvm
+			{
+				"visible"				"0"
+			}
 		}
 
 		"serverInfoBG"
@@ -113,6 +140,11 @@
 			"visible"			"1"
 			"enabled"			"1"
 			"fillcolor"			"shBlackOpacity"
+
+			if_mvm
+			{
+				"visible"				"0"
+			}
 		}
 
 		"bottomDivider"
@@ -126,6 +158,11 @@
 			"visible"			"1"
 			"enabled"			"1"
 			"fillcolor"			"shGreenOpacity"
+
+			if_mvm
+			{
+				"visible"				"0"
+			}
 		}
 
 		"bottomStatsBG"
@@ -139,6 +176,12 @@
 			"visible"			"1"
 			"enabled"			"1"
 			"fillcolor"			"shBlackOpacity"
+
+			if_mvm
+			{
+				"ypos"			"352"
+				"wide"			"596"
+			}
 		}
 	}
 
@@ -470,8 +513,10 @@
 
 		if_mvm
 		{
-			// CHANGE ME
-			"visible"			"0"
+			"visible"			"1"
+			"font"				"u12"
+			"xpos"				"-7"
+			"ypos"				"-5"
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
@@ -497,7 +542,10 @@
 
 		if_mvm
 		{
-			"visible"			"0"
+			"visible"			"1"
+			"xpos"				"10"
+			"ypos"				"-15"
+			"font"				"ScoreboardVerySmall"
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
@@ -509,7 +557,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ServerTimeLeftValue"
-		"font"					"u8"
+		"font"					"ScoreboardVerySmall"
 		"fgcolor_override"		"shWhite"
 		"labelText"				"%servertime%"
 		"textAlignment"			"east"
@@ -523,7 +571,10 @@
 		
 		if_mvm
 		{
-			"visible"			"0"
+			"visible"			"1"
+			"xpos"				"-50"
+			"ypos"				"-15"
+			"font"				"ScoreboardVerySmall"
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
@@ -665,8 +716,7 @@
 		
 		if_mvm
 		{
-			// CHANGE ME
-			"visible" 			"1"
+			"visible" 			"0"
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
@@ -991,6 +1041,8 @@
 		if_mvm
 		{
 			"visible"		"1"
+			"xpos"			"25"
+			"ypos"			"-350"
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
@@ -1303,7 +1355,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Destruction2"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%destruction%"
 			"textAlignment"		"west"
 			"xpos"			"0"
@@ -1408,7 +1460,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Captures2"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%captures%"
 			"textAlignment"		"west"
 			"xpos"			"0"
@@ -1428,7 +1480,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Defenses"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%defenses%"
 			"textAlignment"		"west"
 			"xpos"			"345"
@@ -1445,7 +1497,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Defenses2"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%defenses%"
 			"textAlignment"		"west"
 			"xpos"			"0"
@@ -1482,7 +1534,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Domination2"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%dominations%"
 			"textAlignment"		"west"
 			"xpos"			"0"
@@ -1519,7 +1571,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Revenge2"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%Revenge%"
 			"textAlignment"		"west"
 			"xpos"			"0"
@@ -1624,7 +1676,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Healing2"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%healing%"
 			"textAlignment"		"west"
 			"xpos"			"0"
@@ -1661,7 +1713,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Invuln2"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%invulns%"
 			"textAlignment"		"west"
 			"xpos"			"0"
@@ -1698,7 +1750,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Teleports2"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%teleports%"
 			"textAlignment"		"west"
 			"xpos"			"0"
@@ -1735,7 +1787,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Headshots2"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%headshots%"
 			"textAlignment"		"west"
 			"xpos"			"0"
@@ -1789,7 +1841,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Backstabs2"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%backstabs%"
 			"textAlignment"		"west"
 			"xpos"			"0"
@@ -1844,7 +1896,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Bonus2"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%bonus%"
 			"textAlignment"		"west"
 			"xpos"			"0"
@@ -1898,7 +1950,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Support2"
-			"font"			"u8"
+			"font"			"DefaultVerySmall"
 			"labelText"		"%support%"
 			"textAlignment"		"west"
 			"xpos"			"0"
@@ -2003,6 +2055,15 @@
 	
 
 	// DISABLED ELEMENTS
+
+	"ServerTimeLeft"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"ServerTimeLeft"
+		"xpos"			"9999"
+		"visible"		"0"
+		"enabled"		"0"
+	}	
 
 	"BlueScoreBG"
 	{
@@ -2117,14 +2178,26 @@
 		"fieldName"				"VerticalLine"
 		"visible"				"0"
 		"enabled"				"0"
+		if_mvm
+		{
+			"xpos"				"9999"
+			"ypos"				"9999"
+			"visible"			"0"
+			"wide"				"0"
+			"tall"				"0"
+		}
 	}
 
 	"ShadedBar"
 	{
 		"ControlName"			"ImagePanel"
-		"fieldName"				"VerticalLine"
+		"fieldName"				"ShadedBar"
 		"visible"				"0"
 		"enabled"				"0"
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 
 	"classmodelpanel"
@@ -2150,6 +2223,11 @@
 		"fieldName"			"HorizontalLine"
 		"visible"			"0"
 		"enabled"			"0"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 
 	"ClassImage"
@@ -2158,5 +2236,25 @@
 		"fieldName"				"ClassImage"
 		"visible"				"0"
 		"enabled"				"0"
+	}
+
+	"MvMScoreboard"
+	{
+		"ControlName"		"CTFHudMannVsMachineScoreboard"
+		"fieldName"			"MvMScoreboard"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"				"10"
+		"wide"				"f0"
+		"tall"				"480"
+		"visible"			"0"
+		"enabled"			"1"
+		
+		"verbose"			"1"
+		
+		if_mvm
+		{
+			"visible"		"1"
+		}
 	}
 }

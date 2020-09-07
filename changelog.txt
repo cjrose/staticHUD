@@ -1,6 +1,14 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Alpha 9.06.2020
+----------------------------------------------
++ Added MvM scoreboard
++ Added the wave status panel for mvm
++ Added heavy rage meter for MvM
+
+
+----------------------------------------------
 		Alpha 9.05.2020
 ----------------------------------------------
 + Added hud round counter
