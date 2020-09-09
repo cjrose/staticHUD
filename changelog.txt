@@ -1,6 +1,19 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Beta 9.09.2020
+----------------------------------------------
++ Added the menu buttons for the ingame menu
++ Added items menu
++ Added class loadout menu
++ Added backpack menu
++ Added item selection menu
+~ Updated the main menu and loading screen textures
+~ Fixed the scoreboard being broken
+~ Fixed spy disguise health being broken
+
+
+----------------------------------------------
 		Beta 9.08.2020
 ----------------------------------------------
 + Updated more of the MvM HUD

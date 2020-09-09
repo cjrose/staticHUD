@@ -43,8 +43,8 @@
 			"wide"		"p0.5"
 			"tall"		"f6"
 			"zpos"	"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"rotation"		"2"
 			"proportionaltoparent"	"1"
 			"scaleimage"	"1"
@@ -68,20 +68,7 @@
 			"border"		"ReplayDefaultBorder"
 			"proportionaltoparent"	"1"
 		}
-
-		"BGPanel2"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"BGPanel2"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"-1"
-			"wide"			"250"
-			"tall"			"30"
-			"visible"		"1"
-			"fillcolor"		"shGreenOpacityLess"
-		}
-
+		
 		"OuterShadow"
 		{
 			"ControlName"	"EditablePanel"
@@ -91,7 +78,7 @@
 			"zpos"			"-2"
 			"wide"			"p1.1"
 			"tall"			"p1"
-			"visible"		"1"
+			"visible"		"0"
 			"PaintBackgroundType"	"2"
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"

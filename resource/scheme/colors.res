@@ -11,6 +11,7 @@ Scheme
 		"shBlack"			"0 0 0 255"
 		"shGreen"			"22 154 86 255"
 		"shGray"			"100 100 100 255"
+		"shGrayDarker"		"50 50 50 255"
 		"shRed"				"220 128 128 255"
 		"shLightBlue"		"115 254 239 255"
 		"shHPNormal"		"22 154 86 255"

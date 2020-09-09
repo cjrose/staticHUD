@@ -8,8 +8,8 @@ Scheme
 		// vgui_controls color specifications
 		ReplayBrowser.BgColor								"DarkBrown"
 		ReplayBrowser.Details.TitleEdit.Carat.FgColor		"LightRed"
-		ReplayBrowser.Button.ArmedBgColor					"TFOrange"
-		ReplayBrowser.Button.DepressedBgColor				"TFOrange"
+		ReplayBrowser.Button.ArmedBgColor					"shRed"
+		ReplayBrowser.Button.DepressedBgColor				"shRed"
 		ReplayBrowser.CollectionTitle.FgColor				"LightRed"
 		ReplayBrowser.Warning.FgColor						"shWhite"
 		ReplayBrowser.ScrollBar.SliderButton.FgColor		"TransparentYellow"
@@ -21,9 +21,9 @@ Scheme
 		Econ.Dialog.BgColor									"Blank"
 		Econ.Button.BgColor									"shBlack"
 		Econ.Button.FgColor									"shWhite"
-		Econ.Button.ArmedBgColor							"TFOrange"
+		Econ.Button.ArmedBgColor							"shRed"
 		Econ.Button.ArmedFgColor							"shWhite"
-		Econ.Button.DepressedBgColor						"TFOrange"
+		Econ.Button.DepressedBgColor						"shRed"
 		Econ.Button.DepressedFgColor						"shBlack"
 		
 		Econ.Button.PresetDefaultColorFg					"shWhite"
@@ -32,7 +32,7 @@ Scheme
 		
 		Econ.Button.PresetDefaultColorBg					"LighterRed"
 		Econ.Button.PresetArmedColorBg						"LightRed"
-		Econ.Button.PresetDepressedColorBg					"TFOrange"
+		Econ.Button.PresetDepressedColorBg					"shRed"
 		
 		Border.Bright					"Blank"		// the lit side of a control
 		Border.Dark						"shBlack"		// the dark/unlit side of a control
@@ -49,7 +49,7 @@ Scheme
 
 		CheckButton.TextColor			"Yellow"
 		CheckButton.SelectedTextColor	"Yellow"
-		CheckButton.BgColor				"shBlackOpacity"
+		CheckButton.BgColor				"TransparentBlack"
 		CheckButton.Border1  			"Yellow" 		// the left checkbutton border
 		CheckButton.Border2  			"Yellow"		// the right checkbutton border
 		CheckButton.Check				"Yellow"		// color of the check itself
@@ -60,8 +60,8 @@ Scheme
 		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
 
-		Frame.BgColor					"shBlackOpacity"
-		Frame.OutOfFocusBgColor			"shBlackOpacity"
+		Frame.BgColor					"TransparentBlack"
+		Frame.OutOfFocusBgColor			"TransparentBlack"
 		Frame.FocusTransitionEffectTime	"0.0"	[$WIN32] // time it takes for a window to fade in/out on focus/out of focus
 		Frame.TransitionEffectTime		"0.0"	[$WIN32] // time it takes for a window to fade in/out on open/close
 		Frame.FocusTransitionEffectTime	"0.15"	[$X360] // time it takes for a window to fade in/out on focus/out of focus
@@ -77,13 +77,13 @@ Scheme
 		FrameSystemButton.BgColor		"Blank"
 		FrameSystemButton.Icon			""
 		FrameSystemButton.DisabledIcon	""
-		FrameTitleBar.TextColor			"Orange"
+		FrameTitleBar.TextColor			"shRed"
 		FrameTitleBar.BgColor			"Blank"
-		FrameTitleBar.DisabledTextColor	"Orange"
+		FrameTitleBar.DisabledTextColor	"shRed"
 		FrameTitleBar.DisabledBgColor	"Blank"
 
-		GraphPanel.FgColor				"Orange"
-		GraphPanel.BgColor				"shBlackOpacity"
+		GraphPanel.FgColor				"shRed"
+		GraphPanel.BgColor				"TransparentBlack"
 
 		Label.TextDullColor				"shBlack"
 		Label.TextColor					"shWhite"
@@ -93,20 +93,20 @@ Scheme
 		Label.DisabledFgColor1			"Blank"
 		Label.DisabledFgColor2			"shBlack"
 
-		ListPanel.TextColor					"Orange"
-		ListPanel.BgColor					"shBlackOpacity"
+		ListPanel.TextColor					"shRed"
+		ListPanel.BgColor					"TransparentBlack"
 		ListPanel.SelectedTextColor			"shBlack"
 		ListPanel.SelectedBgColor			"shRed"
 		ListPanel.SelectedOutOfFocusBgColor	"shRed"
-		ListPanel.EmptyListInfoTextColor	"Orange"
+		ListPanel.EmptyListInfoTextColor	"shRed"
 
 		Menu.TextColor					"shWhite"
-		Menu.BgColor					"shBlackOpacity"
+		Menu.BgColor					"TransparentBlack"
 		Menu.ArmedTextColor				"shBlack"
 		Menu.ArmedBgColor				"shWhite"
 		Menu.TextInset					"6"
 
-		Chat.TypingText					"Orange"
+		Chat.TypingText					"shRed"
 
 		Panel.FgColor					"shGray"
 		Panel.BgColor					"Blank"
@@ -114,21 +114,21 @@ Scheme
 		HTML.BgColor					"Blank"
 
 		ProgressBar.FgColor				"shWhite"
-		ProgressBar.BgColor				"shBlackOpacity"
+		ProgressBar.BgColor				"TransparentBlack"
 
 		CircularProgressBar.FgColor		"shWhite"
 		CircularProgressBar.BgColor		"shWhite"
 		
-		"BuildingHealthBar.BgColor"		"shBlackOpacity"
+		"BuildingHealthBar.BgColor"		"TransparentBlack"
 		"BuildingHealthBar.Health"		"shWhite"
 		"BuildingHealthBar.LowHealth"	"shRed"
 
-		PropertySheet.TextColor			"Orange"
-		PropertySheet.SelectedTextColor	"Orange"
+		PropertySheet.TextColor			"shRed"
+		PropertySheet.SelectedTextColor	"shRed"
 		PropertySheet.TransitionEffectTime	"0.25"	// time to change from one tab to another
 
-		RadioButton.TextColor			"Orange"
-		RadioButton.SelectedTextColor	"Orange"
+		RadioButton.TextColor			"shRed"
+		RadioButton.SelectedTextColor	"shRed"
 
 		RichText.TextColor				"shGray"
 		RichText.BgColor				"Blank"
@@ -145,11 +145,11 @@ Scheme
 		ScrollBarSlider.FgColor				"shGray"		// nob color
 		ScrollBarSlider.BgColor				"Blank"		// slider background color
 
-		SectionedListPanel.HeaderTextColor	"Orange"
+		SectionedListPanel.HeaderTextColor	"shRed"
 		SectionedListPanel.HeaderBgColor	"Blank"
 		SectionedListPanel.DividerColor		"shBlack"
-		SectionedListPanel.TextColor		"Orange"
-		SectionedListPanel.BrightTextColor	"Orange"
+		SectionedListPanel.TextColor		"shRed"
+		SectionedListPanel.BrightTextColor	"shRed"
 		SectionedListPanel.BgColor			"TransparentLightBlack"
 		SectionedListPanel.SelectedTextColor			"shBlack"
 		SectionedListPanel.SelectedBgColor				"shRed"
@@ -172,12 +172,12 @@ Scheme
 		TextEntry.OutOfFocusSelectedBgColor	"Blank"
 		TextEntry.FocusEdgeColor	"Blank"
 
-		ToggleButton.SelectedTextColor	"Orange"
+		ToggleButton.SelectedTextColor	"shRed"
 
-		Tooltip.TextColor			"shBlackOpacity"
+		Tooltip.TextColor			"TransparentBlack"
 		Tooltip.BgColor				"shRed"
 
-		TreeView.BgColor			"shBlackOpacity"
+		TreeView.BgColor			"TransparentBlack"
 
 		WizardSubPanel.BgColor		"Blank"
 		
@@ -198,8 +198,8 @@ Scheme
 		HudCaptureProgressBar.InActive	"HudProgressBarInActive"
 
 		// scheme-specific colors
-		"FgColor"		"Orange"
-		"BgColor"		"shBlackOpacity"
+		"FgColor"		"shRed"
+		"BgColor"		"TransparentBlack"
 
 		"ViewportBG"		"Blank"
 		"TeamSpec"			"204 204 204 255"
