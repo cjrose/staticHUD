@@ -159,6 +159,47 @@ Scheme
 				}
 			}
 		}
+		
+		shBorderGreenLine
+		{
+			"inset" "0 0 0 0"
+			"backgroundtype"		"2"
+			Left
+			{
+				"1"
+				{
+					"color" "shGreen"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "shGreen"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "shGreen"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "shGreen"
+					"offset" "0 0"
+				}
+			}
+		}
 
 
 		NoBorder

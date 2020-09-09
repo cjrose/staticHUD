@@ -91,7 +91,7 @@
 		"fgcolor"		"shBlack"
 
 		"pin_to_sibling"		"SpecGUIHealthValue"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}	
 

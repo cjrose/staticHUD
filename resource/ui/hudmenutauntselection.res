@@ -34,7 +34,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"Divider"
@@ -68,7 +68,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	
 	"TitleLabel"
@@ -93,7 +93,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	
 	"TitleLabelDropshadow"
@@ -118,7 +118,7 @@
 
 		"pin_to_sibling"		"TitleLabel"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"WeaponTauntLabel"
@@ -142,7 +142,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	
 	"CancelLabel"
@@ -166,7 +166,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"TauntModelPanel1"
@@ -193,7 +193,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			
 		"attriblabel"
 		{
@@ -243,7 +243,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel1"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	
 	"NumberLabel1"
@@ -268,7 +268,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel1"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"TauntModelPanel2"
@@ -295,7 +295,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			
 		"attriblabel"
 		{
@@ -345,7 +345,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel2"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	
 	"NumberLabel2"
@@ -370,7 +370,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel2"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"TauntModelPanel3"
@@ -397,7 +397,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			
 		"attriblabel"
 		{
@@ -447,7 +447,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel3"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	
 	"NumberLabel3"
@@ -472,7 +472,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel3"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"TauntModelPanel4"
@@ -499,7 +499,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			
 		"attriblabel"
 		{
@@ -549,7 +549,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel4"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	
 	"NumberLabel4"
@@ -574,7 +574,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel4"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"TauntModelPanel5"
@@ -601,7 +601,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			
 		"attriblabel"
 		{
@@ -651,7 +651,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel5"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	
 	"NumberLabel5"
@@ -676,7 +676,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel5"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"TauntModelPanel6"
@@ -703,7 +703,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			
 		"attriblabel"
 		{
@@ -753,7 +753,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel6"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	
 	"NumberLabel6"
@@ -778,7 +778,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel6"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"TauntModelPanel7"
@@ -805,7 +805,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			
 		"attriblabel"
 		{
@@ -855,7 +855,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel7"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	
 	"NumberLabel7"
@@ -880,7 +880,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel7"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"TauntModelPanel8"
@@ -907,7 +907,7 @@
 
 		"pin_to_sibling"		"MainBackground"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			
 		"attriblabel"
 		{
@@ -957,7 +957,7 @@
 
 		"pin_to_sibling"		"TauntModelPanel8"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	
 	"NumberLabel8"
@@ -982,6 +982,6 @@
 
 		"pin_to_sibling"		"TauntModelPanel8"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 }

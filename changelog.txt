@@ -1,6 +1,17 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Beta 9.08.2020
+----------------------------------------------
++ Updated more of the MvM HUD
++ Added the main menu (ingame is not done yet)
++ Added spy mvm sapper meter
++ Added a loading screen image
++ Added a main menu background
+~ Fixed targetIDs being broken
+
+
+----------------------------------------------
 		Beta 9.07.2020
 ----------------------------------------------
 + Added minmode hud variant

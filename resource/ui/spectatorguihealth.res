@@ -79,8 +79,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SpecGUIHealthValue"
-		"xpos"			"-20"
-		"ypos"			"-2"
+		"xpos"			"-15"
+		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"75"
 		"tall"			"25"
@@ -95,8 +95,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SpecGUIHealthValueShadow"
-		"xpos"			"-19"
-		"ypos"			"-1"
+		"xpos"			"-14"
+		"ypos"			"1"
 		"zpos"			"4"
 		"wide"			"75"
 		"tall"			"25"

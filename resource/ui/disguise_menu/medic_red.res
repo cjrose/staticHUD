@@ -45,7 +45,7 @@
 		"image_drawcolor" "shBlackOpacity"
 
 		"pin_to_sibling"		"ClassBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 	
@@ -70,7 +70,7 @@
 		"brighttext"	"0"
 		
 		"pin_to_sibling"		"NumberLabel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 	
@@ -95,7 +95,7 @@
 		"brighttext"	"0"
 
 		"pin_to_sibling"		"ClassBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 

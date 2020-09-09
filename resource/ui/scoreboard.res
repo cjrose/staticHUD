@@ -46,7 +46,7 @@
 		"enabled"			"1"
 
 		"pin_to_sibling"	"scores"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 
 		"border"			"shBorderInverseOpacity"
@@ -238,7 +238,7 @@
 		}
 
 		"pin_to_sibling"		"BlueTeamName"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -314,7 +314,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -340,7 +340,7 @@
 		}
 
 		"pin_to_sibling"		"BlueTeamPlayerCount"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -366,7 +366,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -392,7 +392,7 @@
 		}
 
 		"pin_to_sibling"		"RedTeamName"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -418,7 +418,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
 	}
 
@@ -444,7 +444,7 @@
 		}
 
 		"pin_to_sibling"		"RedTeamScore"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -470,7 +470,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
 	}
 
@@ -496,7 +496,7 @@
 		}
 
 		"pin_to_sibling"		"RedTeamPlayerCount"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -525,7 +525,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -554,7 +554,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -583,7 +583,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -611,7 +611,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -639,7 +639,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -669,7 +669,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -697,7 +697,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -725,7 +725,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -753,7 +753,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -781,7 +781,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 	
@@ -808,7 +808,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -832,7 +832,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 
 		"DuelingLabel"
@@ -1051,7 +1051,7 @@
 		}
 
 		"pin_to_sibling"		"ScoreboardPanel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 
 		"KillsLabel"
@@ -1073,7 +1073,7 @@
 			"enabled"		"1"
 
 			"pin_to_sibling"		"Kills"
-			"pin_sibling_to_corner"	"PINS_TOPLEFT"
+			"pin_to_sibling_corner"	"PINS_TOPLEFT"
 			"pin_corner_to_sibling" "PINS_TOPLEFT"
 		}							
 		"DeathsLabel"
@@ -1095,7 +1095,7 @@
 			"enabled"		"1"
 
 			"pin_to_sibling"		"Deaths"
-			"pin_sibling_to_corner"	"PINS_TOPLEFT"
+			"pin_to_sibling_corner"	"PINS_TOPLEFT"
 			"pin_corner_to_sibling" "PINS_TOPLEFT"
 		}						
 		"AssistsLabel"
@@ -1117,7 +1117,7 @@
 			"enabled"		"1"
 			
 			"pin_to_sibling"		"Assists"
-			"pin_sibling_to_corner"	"PINS_TOPLEFT"
+			"pin_to_sibling_corner"	"PINS_TOPLEFT"
 			"pin_corner_to_sibling" "PINS_TOPLEFT"
 		}
 		"DestructionLabel"
@@ -1174,7 +1174,7 @@
 			"enabled"		"1"
 
 			"pin_to_sibling"		"Kills"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}	
 		"KillsShadow"
@@ -1196,7 +1196,7 @@
 			"enabled"		"1"
 
 			"pin_to_sibling"		"Kills"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}					
 		"Deaths"
@@ -1235,7 +1235,7 @@
 			"enabled"		"1"
 
 			"pin_to_sibling"		"Deaths"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}
 		"DeathsShadow"
@@ -1257,7 +1257,7 @@
 			"enabled"		"1"
 
 			"pin_to_sibling"		"Deaths"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}	
 		"GameType"
@@ -1314,7 +1314,7 @@
 			"enabled"		"1"
 
 			"pin_to_sibling"		"Assists"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}	
 		"AssistsShadow"
@@ -1336,7 +1336,7 @@
 			"enabled"		"1"
 
 			"pin_to_sibling"		"Assists"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}				
 		"Destruction"
@@ -1373,7 +1373,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"pin_to_sibling"		"Destruction"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}			
 		"CapturesLabel"
@@ -1478,7 +1478,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"pin_to_sibling"		"Captures"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}						
 		"Defenses"
@@ -1515,7 +1515,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"pin_to_sibling"		"Defenses"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}						
 		"Domination"
@@ -1552,7 +1552,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"pin_to_sibling"		"Domination"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}				
 		"Revenge"
@@ -1589,7 +1589,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"pin_to_sibling"		"Revenge"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}					
 		"HealingLabel"
@@ -1694,7 +1694,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"pin_to_sibling"		"Healing"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}	
 		"Invuln"
@@ -1731,7 +1731,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"pin_to_sibling"		"Invuln"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}						
 		"Teleports"
@@ -1768,7 +1768,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"pin_to_sibling"		"Teleports"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}			
 		"Headshots"
@@ -1805,7 +1805,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"pin_to_sibling"		"Headshots"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}	
 		"BackstabsLabel"
@@ -1859,7 +1859,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"pin_to_sibling"		"Backstabs"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}	
 		"BonusLabel"
@@ -1914,7 +1914,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"pin_to_sibling"		"Bonus"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}	
 		"SupportLabel"
@@ -1968,7 +1968,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"pin_to_sibling"		"Support"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}	
 		"DamageLabel"
@@ -1990,7 +1990,7 @@
 			"enabled"		"1"
 
 			"pin_to_sibling"		"Damage"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}
 		"Damage"
@@ -2030,7 +2030,7 @@
 			"enabled"		"1"
 
 			"pin_to_sibling"		"Damage"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}
 		"DamageShadow"
@@ -2052,7 +2052,7 @@
 			"enabled"		"1"
 
 			"pin_to_sibling"		"Damage"
-			"pin_sibling_to_corner"	"PIN_TOPLEFT"
+			"pin_to_sibling_corner"	"PIN_TOPLEFT"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		}
 	}

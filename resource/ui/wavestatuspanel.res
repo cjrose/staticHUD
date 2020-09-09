@@ -28,11 +28,11 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"BG"
-		"xpos"			"200"
+		"xpos"			"175"
 		"ypos"			"10"
 		"ypos_minmode"	"0"
 		"zpos"			"-1"
-		"wide"			"200"
+		"wide"			"250"
 		"tall"			"55"
 		"autoResize"	"0"
 		"pinCorner"		"0"

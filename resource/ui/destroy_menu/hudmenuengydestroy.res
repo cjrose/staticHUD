@@ -49,7 +49,7 @@
 		"iconColor"		"shWhite"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 	
@@ -74,7 +74,7 @@
 		"brighttext"	"0"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
@@ -99,7 +99,7 @@
 		"brighttext"	"0"
 
 		"pin_to_sibling"		"TitleLabel"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 	
@@ -123,7 +123,7 @@
 		"brighttext"	"0"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 	
@@ -139,7 +139,7 @@
 		"visible"		"0"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}	
 	
@@ -155,7 +155,7 @@
 		"visible"		"0"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}	
 	
@@ -171,7 +171,7 @@
 		"visible"		"0"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}	
 	
@@ -187,7 +187,7 @@
 		"visible"		"0"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 	
@@ -203,7 +203,7 @@
 		"visible"		"0"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}	
 	
@@ -219,7 +219,7 @@
 		"visible"		"0"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}	
 	
@@ -235,7 +235,7 @@
 		"visible"		"0"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}	
 	
@@ -251,7 +251,7 @@
 		"visible"		"0"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}	
 
@@ -267,7 +267,7 @@
 		"visible"		"1"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}	
 	
@@ -283,7 +283,7 @@
 		"visible"		"1"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}	
 	
@@ -299,7 +299,7 @@
 		"visible"		"1"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}	
 	
@@ -315,7 +315,7 @@
 		"visible"		"1"
 
 		"pin_to_sibling"		"DestroyMenuBG"
-		"pin_sibling_to_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
