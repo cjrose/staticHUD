@@ -153,11 +153,11 @@
 			"fieldName"			"bottomDivider"
 			"xpos"				"2"
 			"ypos"				"252"
-			"wide"				"496"
+			"wide"				"497"
 			"tall"				"2"
 			"visible"			"1"
 			"enabled"			"1"
-			"fillcolor"			"shGreenOpacity"
+			"fillcolor"			"shGreen"
 
 			if_mvm
 			{

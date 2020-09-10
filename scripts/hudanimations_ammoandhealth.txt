@@ -9,6 +9,7 @@ event HudHealthBonusPulse
 	Animate PlayerStatusHealthValueAlt FgColor	"shHPOverheal"	Linear 0.0 0.0001
 
 	Animate SpecGUIHealthValue FgColor	"shHPOverheal"	Linear 0.0 0.0001
+	Animate TourneySpecGUIHealthValue FgColor	"shHPOverheal"	Linear 0.0 0.0001
 
 	RunEvent HudHealthBonusPulseLoop	0.6
 }
@@ -26,6 +27,7 @@ event HudHealthBonusPulseStop
 
 	Animate PlayerStatusHealthValueAlt FgColor	"shWhite"	Linear 0.0 0.0001
 	Animate SpecGUIHealthValue FgColor "shWhite"		Linear 0.0 0.001
+	Animate TourneySpecGUIHealthValue FgColor "shWhite"		Linear 0.0 0.001
 	
 	Animate HealthBarOverhealed Alpha 	"0"		Linear 0.0 0.0001
 }

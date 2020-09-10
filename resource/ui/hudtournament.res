@@ -8,7 +8,7 @@
 		"fieldName"				"HudTournament"
 				
 		"xpos"					"c-125"
-		"ypos"					"0"
+		"ypos"					"20"
 		"wide"					"250"
 		"tall"					"480"
 		"proportionaltoparent"	"1"
@@ -478,7 +478,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentLabel"
-		"font"			"HudFontSmall"
+		"font"			"u14"
 		"xpos"			"5"
 		"ypos"			"3"
 		"zpos"			"1"
@@ -530,8 +530,8 @@
 		"src_corner_height"	"15"				// pixels inside the image
 		"src_corner_width"	"15"
 		
-		"draw_corner_width"	"4"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"4"	
+		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
 		
 		if_mvm
 		{
@@ -554,7 +554,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentBLUELabel"
-		"font"			"HudFontSmallest"
+		"font"			"u12"
 		"xpos"			"12"
 		"ypos"			"24"
 		"zpos"			"1"
@@ -590,7 +590,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentBLUEStateLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"tbf12"
 		"xpos"			"56"
 		"ypos"			"24"
 		"zpos"			"1"
@@ -641,8 +641,8 @@
 		"src_corner_height"	"15"				// pixels inside the image
 		"src_corner_width"	"15"
 		
-		"draw_corner_width"	"4"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"4"	
+		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
 		"proportionaltoparent"	"1"
 		
 		if_mvm
@@ -666,7 +666,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentREDLabel"
-		"font"			"HudFontSmallest"
+		"font"			"u12"
 		"xpos"			"175"
 		"ypos"			"24"
 		"zpos"			"1"
@@ -701,7 +701,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentREDStateLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"tbf12"
 		"xpos"			"130"
 		"ypos"			"24"
 		"zpos"			"1"
@@ -736,9 +736,9 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentConditionLabel"
-		"font"			"TFFontSmall"
-		"fgcolor"		"TanLight"
-		"xpos"			"8"
+		"font"			"u10"
+		"fgcolor"		"shWhite"
+		"xpos"			"6"
 		"ypos"			"42"
 		"zpos"			"1"
 		"wide"			"250"
@@ -762,15 +762,15 @@
 			"ypos"			"18"
 			"tall"			"35"
 			"visible"		"1"
-			"font"			"TFFontMedium"
+			"font"			"u10"
 		}
 
 		if_readymode
 		{
-			"xpos"			"285"
+			"xpos"			"280"
 			"ypos"			"26"
 			"visible"		"1"
-			"font"			"TFFontMedium"
+			"font"			"u10"
 		}
 	}
 
@@ -778,11 +778,11 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudTournamentBGHelp"
-		"xpos"			"0"
-		"ypos"			"51"
+		"xpos"			"5"
+		"ypos"			"39"
 		"zpos"			"-1"
-		"wide"			"250"
-		"tall"			"17"
+		"wide"			"240"
+		"tall"			"26"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -793,8 +793,8 @@
 		"src_corner_height"	"23"				// pixels inside the image
 		"src_corner_width"	"23"
 		
-		"draw_corner_width"	"8"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"8"	
+		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
 		
 		if_mvm
 		{
@@ -815,7 +815,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentInstructionsLabel"
-		"font"			"TFFontSmall"
+		"font"			"u10"
 		"xpos"			"0"
 		"ypos"			"54"
 		"wide"			"250"
@@ -832,7 +832,7 @@
 		
 		if_mvm
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"u10"
 			"xpos"			"155"
 			"ypos"			"105"
 			"wide"			"190"
@@ -842,7 +842,7 @@
 
 		if_competitive
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"u10"
 			"xpos"			"cs-0.5"
 			"ypos"			"110"
 			"wide"			"190"
@@ -852,7 +852,7 @@
 
 		if_readymode
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"u10"
 			"xpos"			"225"
 			"ypos"			"110"
 			"wide"			"190"
@@ -865,7 +865,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentInstructionsLabelShadow"
-		"font"			"TFFontSmall"
+		"font"			"u10"
 		"xpos"			"0"
 		"ypos"			"54"
 		"wide"			"250"
@@ -882,7 +882,7 @@
 		
 		if_mvm
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"u10"
 			"xpos"			"156"
 			"ypos"			"106"
 			"wide"			"190"
@@ -893,7 +893,7 @@
 
 		if_competitive
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"u10"
 			"xpos"			"cs-0.5"
 			"ypos"			"111"
 			"wide"			"190"
@@ -904,7 +904,7 @@
 
 		if_readymode
 		{
-			"font"			"HudFontSmallishBold"
+			"font"			"u10"
 			"xpos"			"226"
 			"ypos"			"111"
 			"wide"			"190"

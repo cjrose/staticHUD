@@ -249,12 +249,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Black"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "Black"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 			}
@@ -263,12 +263,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Black"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "Black"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 			}
@@ -277,12 +277,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Black"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "Black"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 			}
@@ -291,12 +291,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Black"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "Black"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 			}
@@ -379,7 +379,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "0 1"
 				}
 			}
@@ -388,7 +388,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "1 0"
 				}
 			}
@@ -397,7 +397,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 			}
@@ -406,7 +406,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 			}
@@ -755,7 +755,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"Black"
+			"color"					"shBlack"
 			
 			"image"					"backpack_rect_color"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -768,7 +768,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"Black"
+			"color"					"shBlack"
 			
 			"image"					"backpack_rect_selected"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -818,7 +818,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"Black"
+			"color"					"shBlack"
 			
 			"image"					"backpack_rect_color"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -830,7 +830,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"Black"
+			"color"					"shBlack"
 			
 			"image"					"backpack_rect_selected"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -1981,7 +1981,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "0 1"
 				}
 			}
@@ -1990,7 +1990,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "1 0"
 				}
 			}
@@ -1999,7 +1999,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 			}
@@ -2008,7 +2008,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 			}
@@ -2383,7 +2383,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "0 1"
 				}
 			}
@@ -2392,7 +2392,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "1 0"
 				}
 			}
@@ -2401,7 +2401,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 			}
@@ -2410,7 +2410,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 			}
@@ -2424,7 +2424,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "1 0"
 				}
 			}
@@ -2437,7 +2437,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "0 1"
 				}
 			}
@@ -2446,7 +2446,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "1 0"
 				}
 			}
@@ -2455,7 +2455,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 			}
@@ -2464,7 +2464,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "shBlack"
 					"offset" "0 0"
 				}
 			}

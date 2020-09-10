@@ -366,4 +366,38 @@
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
 	}
+
+	HudStopWatch
+	{
+		"fieldName"				"HudStopWatch"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"c-60"
+		"ypos"					"10"
+		"wide"					"125"
+		"tall"					"70"
+	}
+
+	HudTournament
+	{
+		"fieldName"				"HudTournament"
+		"visible"				"0"
+		"enabled"				"1"
+		"xpos"					"c-125"
+		"ypos"					"10"
+		"zpos"					"2"
+		"wide"					"250"
+		"tall"					"80"
+	}
+
+	NotificationPanel
+	{
+		"fieldName"				"NotificationPanel"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"c-320"
+		"ypos"					"r75"
+		"wide"					"640"
+		"tall"					"100"
+	}
 }

@@ -7,6 +7,7 @@ hudanimations_manifest
 	"file"		"scripts/hudanimations_removeannoyinganims.txt"
 	"file"		"scripts/hudanimations_chatoverride.txt"
 	"file"		"scripts/hudanimations_ubercharge.txt"
+	"file"		"scripts/hudanimations_tournament.txt"
 
 	"file"		"defaulthud/scripts/hudanimations_tf.txt"
 }

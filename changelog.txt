@@ -1,6 +1,17 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Beta 9.10.2020
+----------------------------------------------
++ Added the crafting, catalog, and stats pages
++ Added stopwatch tournament HUD
++ Added tournament spectator HUD
++ Added CTF HUD
+~ Updated the main menu steam friends list container
+~ Fixed the positioning of labelText for team selection menu
+
+
+----------------------------------------------
 		Beta 9.09.2020
 ----------------------------------------------
 + Added the menu buttons for the ingame menu

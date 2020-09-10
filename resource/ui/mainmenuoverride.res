@@ -171,7 +171,7 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"0"
 		"zpos"			"-150"
-		"wide"			"o1.6"
+		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -182,12 +182,12 @@
 		if_wider
 		{
 			"wide"			"f0"
-			"tall"			"o0.628"
+			"tall"			"f0"
 		}
 
 		if_taller
 		{
-			"wide"			"o1.6"
+			"wide"			"f0"
 			"tall"			"f0"
 		}
 	}
@@ -254,7 +254,7 @@
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"staticHUD Beta 9.09.2020"
+		"labelText"		"staticHUD Beta 9.10.2020"
 		"font"			"u14"
 		"fgcolor"		"shWhite"
 		"textAlignment"	"left"
@@ -1568,15 +1568,15 @@
 			"proportionaltoparent"	"1"
 
 			"columns_count"	"2"
-			"inset_x"		"10"
-			"inset_y"		"5"
-			"row_gap"		"5"
-			"column_gap"	"10"
+			"inset_x"		"5"
+			"inset_y"		"0"
+			"row_gap"		"0"
+			"column_gap"	"2"
 			"restrict_width"	"0"
 
 			"friendpanel_kv"
 			{
-				"wide"		"110"
+				"wide"		"102"
 				"tall"		"20"
 			}
 
