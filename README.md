@@ -22,4 +22,6 @@ Join the Discord if you have any questions or would like to report a bug (Altern
 You can also join the Steam group for up to date info on updates!
 
 [Discord Invite](http://discord.gg/NtQ3FsT)
+
+
 [Steam Group](https://steamcommunity.com/groups/staticHUD)
