@@ -19,5 +19,7 @@ There was a lot of help and support given along the way, and I want to acknowled
 
 ### HELP!
 Join the Discord if you have any questions or would like to report a bug (Alternatively you can make a GitHub issue as well)
+You can also join the Steam group for up to date info on updates!
 
 [Discord Invite](http://discord.gg/NtQ3FsT)
+[Steam Group](https://steamcommunity.com/groups/staticHUD)
