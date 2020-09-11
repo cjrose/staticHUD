@@ -20,4 +20,4 @@ There was a lot of help and support given along the way, and I want to acknowled
 ### HELP!
 Join the Discord if you have any questions or would like to report a bug (Alternatively you can make a GitHub issue as well)
 
-[Discord Invite](http://discord.gg/wpNu4sr)
+[Discord Invite](http://discord.gg/NtQ3FsT)
