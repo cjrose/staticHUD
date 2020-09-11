@@ -176,7 +176,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"image"			"replay/thumbnails/mainmenu/menubg"
+		"image"			"../console/background_upward"
 		"proportionaltoparent"	"1"
 
 		if_wider

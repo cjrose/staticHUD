@@ -1,3 +1,5 @@
+#base "../../customization/transparentbars/hpbar.res"
+
 #base "../../defaulthud/resource/ui/hudplayerhealth.res"
 
 "Resource/UI/HudPlayerHealth.res"
@@ -139,7 +141,8 @@
 		"tall"			"1000"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/hp/hpbar_overlay"
+		// set from customization file
+		//"image"			"replay/thumbnails/hp/hpbar_overlay"
 		"scaleImage"	"1"
 
 		"xpos_minmode"	"9999"

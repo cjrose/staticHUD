@@ -1,5 +1,15 @@
 "Resource/UI/MainMenuOverride.res"
 {
+    "refract"
+    {
+        "ControlName"   "ImagePanel"
+        "fieldName"     "refract"
+        "xpos"          "9999"
+        "visible"       "1"
+        "enabled"       "1"
+        "image"         "replay/thumbnails/viewmodel/refract"
+    }
+
     "cart_alert"
     {
         "ControlName"   "ImagePanel"

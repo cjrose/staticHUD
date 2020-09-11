@@ -112,33 +112,6 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		"tbf36"
-		{
-			"1"
-			{
-				"name"			"The Bold Font"
-				"tall"			"36"
-				"antialias"		"1"
-			}
-		}
-		"tbf40"
-		{
-			"1"
-			{
-				"name"			"The Bold Font"
-				"tall"			"40"
-				"antialias"		"1"
-			}
-		}
-		"tbf44"
-		{
-			"1"
-			{
-				"name"			"The Bold Font"
-				"tall"			"44"
-				"antialias"		"1"
-			}
-		}
 		"tbf48"
 		{
 			"1"
@@ -194,75 +167,12 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		"u20"
-		{
-			"1"
-			{
-				"name"			"Ubuntu"
-				"tall"			"20"
-				"antialias"		"1"
-			}
-		}
 		"u24"
 		{
 			"1"
 			{
 				"name"			"Ubuntu"
 				"tall"			"24"
-				"antialias"		"1"
-			}
-		}
-		"u28"
-		{
-			"1"
-			{
-				"name"			"Ubuntu"
-				"tall"			"28"
-				"antialias"		"1"
-			}
-		}
-		"u32"
-		{
-			"1"
-			{
-				"name"			"Ubuntu"
-				"tall"			"32"
-				"antialias"		"1"
-			}
-		}
-		"u36"
-		{
-			"1"
-			{
-				"name"			"Ubuntu"
-				"tall"			"36"
-				"antialias"		"1"
-			}
-		}
-		"u40"
-		{
-			"1"
-			{
-				"name"			"Ubuntu"
-				"tall"			"40"
-				"antialias"		"1"
-			}
-		}
-		"u44"
-		{
-			"1"
-			{
-				"name"			"Ubuntu"
-				"tall"			"44"
-				"antialias"		"1"
-			}
-		}
-		"u48"
-		{
-			"1"
-			{
-				"name"			"Ubuntu"
-				"tall"			"48"
 				"antialias"		"1"
 			}
 		}

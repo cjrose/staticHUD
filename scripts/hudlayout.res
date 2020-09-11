@@ -1,3 +1,6 @@
+#base "../customization/crosshairs/crosshair.res"
+#base "../customization/transparentviewmodels/transparent_viewmodels.res"
+
 #base "../defaulthud/scripts/hudlayout.res"
 
 "Resource/HudLayout.res"

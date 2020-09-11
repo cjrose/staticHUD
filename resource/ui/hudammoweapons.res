@@ -1,3 +1,5 @@
+#base "../../customization/transparentbars/ammo.res"
+
 #base "../../defaulthud/resource/ui/hudammoweapons.res"
 
 "Resource/UI/HudAmmoWeapons.res"

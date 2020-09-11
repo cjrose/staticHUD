@@ -7,6 +7,12 @@ staticHUD Changelog
 + Added stopwatch tournament HUD
 + Added tournament spectator HUD
 + Added CTF HUD
++ Added HUD crosshairs (read installation.txt for install tutorial)
++ Populated installation.txt with info
++ Added transparent viewmodel support
++ Added a new option to make the hp and ammo bars transparent
+- Removed some unused font instances
+~ Updated some file structure to allow for easier HUD customizing
 ~ Updated the main menu steam friends list container
 ~ Fixed the positioning of labelText for team selection menu
 

@@ -3,8 +3,7 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
-		// custom colors
-
+		// BASE STATICHUD COLORS
 		// opaque colors
 		"shYellow"			"255 255 153 255"
 		"shWhite"			"255 255 255 255"
@@ -16,7 +15,6 @@ Scheme
 		"shLightBlue"		"115 254 239 255"
 		"shHPNormal"		"22 154 86 255"
 		"shHPLow"			"220 128 128 255"
-		"shHPBackground"	"0 0 0 153"
 		"shHPOverheal"		"115 254 239 255"
 		"shAmmoLow"			"214 99 27 255"
 
@@ -29,9 +27,16 @@ Scheme
 		// 85% transparency
 		"shGreenOpacityLess" "22 154 86 225"
 		"shWhiteOpacityLess""255 255 255 225"
-		"shBlackOpacityLess""0 0 0 225" 
-		
+		"shBlackOpacityLess""0 0 0 225"
 
+
+
+
+
+
+
+
+		
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
