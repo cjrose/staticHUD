@@ -1,4 +1,4 @@
-#base "../../customization/transparentbars/ammo.res"
+#base "../../customization/opaquebars/ammo.res"
 
 #base "../../defaulthud/resource/ui/hudammoweapons.res"
 
@@ -102,7 +102,10 @@
 		"enabled"		"1"
 		"fillcolor"		"shHPNormal"
 
-		"visible_minmode"	"0"
+		"wide_minmode"	"90"
+		"tall_minmode"	"5"
+		"xpos_minmode"	"12"
+		"ypos_minmode"	"40"
 	}
 	"AmmoLowBG"
 	{
@@ -119,9 +122,9 @@
 		"fillcolor"		"shAmmoLow"
 
 		"visible_minmode"	"1"
-		"wide_minmode"		"80"
+		"wide_minmode"		"90"
 		"tall_minmode"		"5"
-		"xpos_minmode"		"15"
+		"xpos_minmode"		"12"
 		"ypos_minmode"		"40"
 
 	}

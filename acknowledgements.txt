@@ -21,6 +21,9 @@ https://gamebanana.com/guis/32086
 Hypnotize - Custom HUD Crosshairs
 https://github.com/Hypnootize/TF2-Hud-Crosshairs
 
+rasyfire - Closed captions
+http://teamfortress.tv/user/rays
+
 komorebi - Transparent Viewmodels
 https://www.teamfortress.tv/21928/transparent-viewmodels-in-any-hud
 

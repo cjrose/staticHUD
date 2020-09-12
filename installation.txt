@@ -10,11 +10,17 @@ Need additional help? Join the HUD discord and ask me directly!
 http://discord.gg/NtQ3FsT
 
 ----------------------------------------------
-        Transparent HP and Ammo bars
+        Opaque HP and Ammo bars
 ----------------------------------------------
 
-To enable transparency for these elements, navigate to the 'customization/transparentbars' folder and open 'hpbar.res' and 'ammo.res'
-Follow the instructions in both of those files to make the changes you want
+As of Beta 9.11.2020, the HP and Ammo bars are made to be defaulted as transparent objects. If you would still like to use the old opaque bars, navigate to 'customization/opaquebars' folder and open 'hpbar.res' and 'ammo.res'. Follow the instructions in both of those files to make the changes you want.
+
+----------------------------------------------
+        Health bar fixes
+----------------------------------------------
+
+The horizontal health bar effect does not play well with varying resolutions. Check out 'customization/hpbar_resolutions/hpbar.res' file to fix it for your resolution.
+If you are using 1920x1080, you *should* not have to change this value.
 
 ----------------------------------------------
         HUD Crosshairs

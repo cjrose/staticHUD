@@ -254,7 +254,7 @@
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"staticHUD Beta 9.10.2020"
+		"labelText"		"staticHUD Beta 9.12.2020"
 		"font"			"u14"
 		"fgcolor"		"shWhite"
 		"textAlignment"	"left"
@@ -621,7 +621,7 @@
 				"tall"			"16"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"button_Alert"
+				"image"			"replay/thumbnails/mainmenu/button_alert"
 				"scaleImage"	"1"
 			}
 		}
@@ -711,7 +711,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
-				"image"			"button_streaming"
+				"image"			"replay/thumbnails/mainmenu/button_streaming"
 
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
@@ -804,7 +804,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
-				"image"			"button_quests_pda"
+				"image"			"replay/thumbnails/mainmenu/button_quests_pda"
 
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
@@ -894,7 +894,7 @@
 				"tall"			"16"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"button_MOTD"
+				"image"			"replay/thumbnails/mainmenu/button_motd"
 				"scaleImage"	"1"
 			}
 		}
@@ -2118,7 +2118,7 @@
 				"tall"			"f0"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"glyph_create"
+				"image"			"replay/thumbnails/mainmenu/glyph_create"
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 			}				

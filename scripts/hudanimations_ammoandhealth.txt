@@ -6,7 +6,7 @@ event HudHealthBonusPulse
 	Animate HealthBarOverhealed	Alpha	"255"	Linear 0.0 0.3
 	Animate HealthBarOverhealed Alpha 	"0"		Linear 0.3 0.6
 
-	Animate PlayerStatusHealthValueAlt FgColor	"shHPOverheal"	Linear 0.0 0.0001
+	Animate HealthBarMinmode FgColor "shHPOverheal" Linear 0.0 0.0001
 
 	Animate SpecGUIHealthValue FgColor	"shHPOverheal"	Linear 0.0 0.0001
 	Animate TourneySpecGUIHealthValue FgColor	"shHPOverheal"	Linear 0.0 0.0001
@@ -25,7 +25,8 @@ event HudHealthBonusPulseStop
 	StopEvent HudHealthBonusPulse 0.0
 	StopEvent HudHealthBonusPulseLoop 0.0
 
-	Animate PlayerStatusHealthValueAlt FgColor	"shWhite"	Linear 0.0 0.0001
+	Animate HealthBarMinmode FgColor "shHPGreen" Linear 0.0 0.0001
+
 	Animate SpecGUIHealthValue FgColor "shWhite"		Linear 0.0 0.001
 	Animate TourneySpecGUIHealthValue FgColor "shWhite"		Linear 0.0 0.001
 	
@@ -38,9 +39,10 @@ event HudHealthBonusPulseStop
 event HudHealthDyingPulse
 {
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"		Linear 0.0 0.0001
-	Animate PlayerStatusHealthValueAlt		FgColor		"shHPLow"	Linear 0.0 0.0001
+	Animate HealthBarHurt					Alpha		"255"		Linear 0.0 0.0001
 
 	Animate SpecGUIHealthValue				FgColor		"shHPLow"	Linear 0.0 0.0001
+
 }
 
 // call to loop HudHealthDyingPulse
@@ -52,7 +54,7 @@ event HudHealthDyingPulseLoop
 event HudHealthDyingPulseStop
 {
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"		Linear 0.0 0.0001
-	Animate PlayerStatusHealthValueAlt		FgColor		"shWhite"	Linear 0.0 0.0001
+	Animate HealthBarHurt					Alpha		"0"		Linear 0.0 0.0001
 
 	Animate SpecGUIHealthValue				FgColor		"shWhite"		Linear 0.0 0.0001
 }

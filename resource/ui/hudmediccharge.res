@@ -41,28 +41,6 @@
 		"fgcolor_override"	"shWhite"
 	}
 
-	"ChargeLabelShadow"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"ChargeLabelShadow"
-		"xpos"			"57"
-		"ypos"			"55"
-		"zpos"			"2"
-		"wide"			"100"
-		"tall"			"50"
-		"autoResize"	"1"
-		"pinCorner"		"2"
-		"visible"		"0"
-		"enabled"		"0"
-		"tabPosition"	"0"
-		"labelText"		"#TF_UberchargeMinHUD"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"font"			"tbf24"
-		"fgcolor_override" "shBlack"
-	}
-
 	"IndividualChargesLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -82,20 +60,6 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"HudFontSmallest"
-	}
-
-	"ChargeBG"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"ChargeBG"
-		"xpos"			"48"
-		"ypos"			"88"
-		"zpos"			"1"
-		"wide"			"104"
-		"tall"			"14"
-		"visible"		"1"
-		"enabled"		"1"
-		"fillcolor"		"shBlack"
 	}
 	
 	"ChargeMeter"

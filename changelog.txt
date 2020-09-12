@@ -1,6 +1,22 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Beta 9.12.2020
+----------------------------------------------
++ Added customization to fix the resolution issues with the health bar. See installation.txt
++ Added closecaptioning support. Use 'closecaption 1' in game to enable
++ Changed the font of engine related commands (net_graph, cl_showpos, cl_showfps)
++ Added a custom sourcescheme to fit with the theme of the HUD
+- Removed the opaque black background from the medic's ubercharge meter
+~ Fixed a really weird bug with the blue demoman spy disguise box, I'm not sure what caused this tbh
+~ Fixed the engineer's frontier justice revenge crit meter overlapping the metal count
+~ Fixed the HUD main menu background not loading in during the initial game load
+~ Fixed some buttons in the main menu unloading their custom texture when in sv_pure 2 servers
+~ Replaced the default opaque bars with the customization option of transparent bars. You can get the opaque bars back through customization. See installation.txt
+~ Adjusted the layout of the minmode HUD. Added bars to indicate low health and ammo. Feedback appreciated.
+
+
+----------------------------------------------
 		Beta 9.10.2020
 ----------------------------------------------
 + Added the crafting, catalog, and stats pages

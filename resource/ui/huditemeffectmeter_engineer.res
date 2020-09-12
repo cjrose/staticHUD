@@ -8,7 +8,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-40"
-		"ypos"			"c95"
+		"ypos"			"c65"
 		"wide"			"110"
 		"tall"			"50"
 		"MeterFG"		"shWhite"

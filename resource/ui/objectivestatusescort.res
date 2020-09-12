@@ -304,7 +304,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"EscortItemImageAlert"	
 			"xpos"			"-4"
-			"ypos"			"38"
+			"ypos"			"39"
 			"zpos"			"0"
 			"wide"			"60"
 			"tall"			"30"
