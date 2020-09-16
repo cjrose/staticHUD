@@ -12,12 +12,12 @@
 		"pinCorner"		"0"
 		"enabled"		"1"
 				
-		"team1_player_base_offset_x"		"-420"
+		"team1_player_base_offset_x"		"cs-0.5"
 		"team1_player_base_y"				"60"
 		"team1_player_delta_x"				"0"
 		"team1_player_delta_y"				"19"
-		"team2_player_base_offset_x"		"-420"
-		"team2_player_base_y"				"240"
+		"team2_player_base_offset_x"		"cs-0.5"
+		"team2_player_base_y"				"250"
 		"team2_player_delta_x"				"0"
 		"team2_player_delta_y"				"19"
 		
@@ -64,11 +64,11 @@
 					
 				if_mvm
 				{
-					"xpos"				"0"
-					"ypos"				"25"
-					"wide"				"55"
-					"textAlignment"		"center"
-					"font"				"DefaultVerySmall"
+					"xpos"				"20"
+					"ypos"				"0"
+					"wide"				"120"
+					"textAlignment"		"north-west"
+					"font"				"u10"
 				}
 			}
 			
@@ -88,10 +88,10 @@
 				
 				if_mvm
 				{
-					"xpos"			"5"
-					"ypos"			"4"
-					"wide"			"16"
-					"tall"			"16"
+					"xpos"			"0"
+					"ypos"			"0"
+					"wide"			"18"
+					"tall"			"18"
 					"image"			"../vgui/hud_connecting"
 				}
 			}
@@ -202,7 +202,7 @@
 				
 				if_mvm
 				{
-					"ypos"			"17"
+					"ypos"			"1"
 				}
 			}
 			
@@ -262,19 +262,20 @@
 			
 			if_mvm
 			{
-				"wide"		"55"
-				"tall"		"35"
+				"wide"		"170"
+				"tall"		"18"
 			}
 		}
 		
 		if_mvm
 		{
-			"xpos"					"c-250"
-			"ypos"					"6"
-			"wide"					"500"
-			"tall"					"180"
+			"xpos"					"cs-0.5"
+			"ypos"					"250"
+			"wide"					"f0"
+			"tall"					"480"
 	
-			"team1_player_delta_x"			"52"
+			"team1_player_delta_x"			"0"
+			"team1_player_delta_y"			"19"
 		}		
 	}
 

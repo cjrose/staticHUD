@@ -25,5 +25,26 @@
 
         // 16:9 - 1176x664
         //"HealthBonusPosAdj"         "148"
+
+        // 4:3 - 1280x1024
+        //"HealthBonusPosAdj"            "228"
+
+        // 4:3 - 1280x960
+        //"HealthBonusPosAdj"             "214"
+
+        // 4:3 - 1024x768
+        //"HealthBonusPosAdj"             "172"
+
+        // 4:3 - 800x600
+        //"HealthBonusPosAdj"             "133"
+
+        // 4:3 - 640x480
+        //"HealthBonusPosAdj"             "106"
+
+        // 16:10 - 1680x1050
+        //"HealthBonusPosAdj"             "234"
+
+        // 16:10 - 1440x900
+        //"HealthBonusPosAdj"             "200"
     }
 }

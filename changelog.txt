@@ -1,6 +1,23 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Beta 9.16.2020
+----------------------------------------------
++ Added a console button the main menu (feature request by barbiehunter)
++ Readded the health bonus image / low health image for floating targetIDs
++ Added the avatar of the user speaking to the voice status panel
++ Added support for the arena gamemode
++ Added customization for health bar for other resolutions
+~ Started testing for 4:3 and 16:10 aspect ratios (this is a WIP, most things work)
+~ Updated the location of the carried flag image for spectators
+~ Fixed the new items icon for the store
+~ Fixed blue demoman disguise label again (idk what's breaking this)
+~ Fixed MVM spectator HUD
+~ Fixed MvM bomb carrier arrow being offscreen
+- Removed the background of the countdown label
+
+
+----------------------------------------------
 		Beta 9.12.2020
 ----------------------------------------------
 + Added customization to fix the resolution issues with the health bar. See installation.txt

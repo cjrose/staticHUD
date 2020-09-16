@@ -18,7 +18,7 @@
 		if_mvm
 		{
 			"xpos"		"60"
-			"ypos"		"40"
+			"ypos"		"5"
 			"wide"		"40"
 			"tall"		"40"
 		}
@@ -40,7 +40,7 @@
 		"if_mvm"
 		{
 			"xpos"			"70"
-			"ypos"			"50"
+			"ypos"			"15"
 			"wide"			"20"
 			"tall"			"20"
 		}	

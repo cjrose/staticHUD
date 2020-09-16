@@ -960,11 +960,11 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"CountdownBG"
-		"xpos"			"230"
-		"ypos"			"r55"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"1"
-		"wide"			"40"
-		"tall"			"40"
+		"wide"			"0"
+		"tall"			"0"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -980,14 +980,14 @@
 
 		if_competitive
 		{
-			"xpos"			"cs-0.5"
-			"ypos"			"150"
+			"xpos"			"9999"
+			"ypos"			"9999"
 		}
 
 		if_readymode
 		{
-			"xpos"			"300"
-			"ypos"			"130"
+			"xpos"			"9999"
+			"ypos"			"9999"
 		}
 	}
 

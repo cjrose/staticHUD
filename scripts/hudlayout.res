@@ -422,4 +422,67 @@
 		"ItemFadeOutTime"	"0.3"
 		"topoffset"		"0"
 	}
+
+	HudVoiceStatus
+	{
+		"fieldName" "HudVoiceStatus"
+		"visible" "1"
+		"enabled" "1"
+		"xpos" "r145"
+		"ypos" "0"
+		"wide" "145"
+		"tall" "400"
+
+		"item_wide"	"135"
+		
+		"show_avatar"		"1"
+		
+		"show_dead_icon"	"1"
+		"dead_xpos"			"1"
+		"dead_ypos"			"0"
+		"dead_wide"			"16"
+		"dead_tall"			"16"
+		
+		"show_voice_icon"	"0"
+		"icon_ypos"			"0"
+		"icon_xpos"			"15"
+		"icon_tall"			"16"
+		"icon_wide"			"16"
+		
+		"text_xpos"			"33"
+	}
+
+	HudArenaCapPointCountdown
+	{
+		"fieldName"				"HudArenaCapPointCountdown"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"c-15"
+		"ypos"					"r30"
+		"wide"					"30"
+		"tall"					"30"
+		"zpos"					"99"
+	}
+
+	ArenaWinPanel
+	{
+		"fieldName"				"ArenaWinPanel"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"c-225"
+		"ypos"					"r220"
+		"wide"					"450"
+		"tall"					"218"
+	}
+
+	HudArenaPlayerCount [$WIN32]
+	{
+		"fieldName"				"HudArenaPlayerCount"		
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"0"
+		"ypos"					"20"
+		"wide"					"f0"
+		"tall"					"50"
+	}	
 }
