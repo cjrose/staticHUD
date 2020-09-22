@@ -1,0 +1,186 @@
+#base "../../defaulthud/resource/ui/roundinfo.res"
+
+"Resource/UI/RoundInfo.res"
+{
+	"roundinfo"
+	{
+		"ControlName"	"Frame"
+		"fieldName"		"roundinfo"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"
+		"wide"			"f0"
+		"tall"			"480"
+		"autoResize"	"1"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+	}
+
+	"TCBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"TCBG"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.5"
+		"wide"			"500"
+		"tall"			"400"
+		"visible"		"1"
+		"enabled"		"1"
+		"border"		"shBorderInverse"
+	}
+	
+	"Overlay"
+	{
+		"ControlName"	"RoundInfoOverlay"
+		"fieldName"		"Overlay"
+		"xpos"			"c-280"
+		"ypos"			"c-148"
+		"zpos"			"4"
+		"wide"			"560"
+		"tall"			"280"
+		"autoResize"	"1"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"	
+	}
+	
+	"Title"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"Title"
+		"xpos"			"c-215"
+		"ypos"			"65"
+		"zpos"			"4"
+		"wide"			"420"
+		"tall"			"24"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#round_info_header"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"u20"
+		"fgcolor"		"white"
+	}
+	
+	"Mapname"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"Mapname"
+		"xpos"			"c-215"
+		"ypos"			"80"
+		"zpos"			"4"
+		"wide"			"420"
+		"tall"			"24"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%mapname%"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"u20"
+		"fgcolor"		"white"
+	}
+
+	"RoundContinue"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	
+	"RoundContinue2"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"RoundContinue2"
+		"xpos"			"20"
+		"ypos"			"0"
+		"zpos"			"6"
+		"wide"			"150"
+		"tall"			"30"
+		"autoResize"	"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"Continue (&E)"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"command"		"continue"
+		"default"		"1"
+		"font"			"tbf14"
+		"fgcolor"		"Black"
+		"paintbackground"	"0"
+
+		"pin_to_sibling"		"TCBG"
+		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+	}
+	
+	"MapImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MapImage"
+		"xpos"			"c-280"
+		"ypos"			"c-148"
+		"zpos"			"3"
+		"wide"			"560"
+		"tall"			"280"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+	}	
+	
+	"MenuBG"
+	{
+		"ControlName"	"CModelPanel"
+		"fieldName"		"MenuBG"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"		
+		"wide"			"f0"
+		"tall"			"480"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"fov"			"20"
+		
+		"model"
+		{
+			"modelname"	"models/vgui/UI_welcome01_screen.mdl"
+			"skin"		"0"
+			"angles_x" "0"
+			"angles_y" "180"
+			"angles_z" "0"
+			"origin_x" "290"
+			"origin_x_lodef" "320"
+			"origin_x_hidef" "310"
+			"origin_y" "0"
+			"origin_z" "-39"
+		}
+	}					
+
+	"ShadedBar"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ShadedBar"
+		"xpos"			"0"
+		"ypos"			"r50"
+		"zpos"			"5"
+		"wide"			"f0"
+		"tall"			"50"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"tabPosition"	"0"	
+		"image"			"loadout_bottom_gradient"
+		"tileImage"		"1"
+		"PaintBackgroundType"	"0"
+	}			
+}

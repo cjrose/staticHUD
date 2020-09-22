@@ -33,8 +33,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BuildingStatusHealthImageBG"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"2"
 		"wide"			"28"
 		"tall"			"28"

@@ -29,3 +29,6 @@ https://www.teamfortress.tv/21928/transparent-viewmodels-in-any-hud
 
 huds.tf Discord Community (thank you all!)
 https://discord.com/invite/C2EeDee
+
+Whisker - Streamer HUD mode reference
+https://github.com/rbjaxter/budhud

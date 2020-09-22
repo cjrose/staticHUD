@@ -23,6 +23,16 @@ The horizontal health bar effect does not play well with varying resolutions. Ch
 If you are using 1920x1080, you *should* not have to change this value.
 
 ----------------------------------------------
+        Streamer Mode
+----------------------------------------------
+
+If you plan to stream public lobbies to Twitch, it is highly advised you use the streamer mode of this HUD to ensure you are not stream sniped / have the server dossed.
+To enable streamer mode, navigate to the 'customization' folder and rename the '_stream' folder to 'stream'.
+After that, if you have your game open, run the following command in your console: 'exec statichud_streamermode_on'.
+
+Please make sure to read the output of the execution to know exactly what has changed. If using streamer mode, please avoid using your console while you're showing your game, otherwise it can easily give you away.
+
+----------------------------------------------
         HUD Crosshairs
 ----------------------------------------------
 

@@ -1,6 +1,17 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Beta 9.22.2020
+----------------------------------------------
++ Added tooltips to main menu buttons
++ Added toggleable streamer mode, check installation.txt
++ Added support for territorial control (tc_hydro)
++ Changed the font of the Steam friends list entries
+~ Fixed weird avatar placement in the voice status
+~ Fixed the building icon appearing in target IDs
+
+
+----------------------------------------------
 		Beta 9.16.2020
 ----------------------------------------------
 + Added a console button the main menu (feature request by barbiehunter)
