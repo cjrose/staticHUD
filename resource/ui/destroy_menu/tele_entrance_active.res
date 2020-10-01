@@ -1,20 +1,6 @@
-#base "base_active.res"
+#base "../../../_statichud/resource/ui/destroy_menu/tele_entrance_active.res"
+#base "../../../_defaulthud/resource/ui/destroy_menu/tele_entrance_active.res"
 
 "Resource/UI/destroy_menu/tele_entrance_active.res"
 {
-	"ItemNameLabel"
-	{	
-		"labelText"		"#TF_Object_Tele_Entrance_360"
-	}
-
-	"BuildingIcon"	
-	{
-		"icon"			"obj_status_tele_entrance"
-		"iconColor"		"shWhite"
-	}
-
-	"NumberLabel"
-	{	
-		"labelText"		"3"
-	}
 }

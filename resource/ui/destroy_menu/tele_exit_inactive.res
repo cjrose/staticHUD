@@ -1,14 +1,6 @@
-#base "base_inactive.res"
+#base "../../../_statichud/resource/ui/destroy_menu/tele_exit_inactive.res"
+#base "../../../_defaulthud/resource/ui/destroy_menu/tele_exit_inactive.res"
 
-"Resource/UI/build_menu/tele_exit_inactive.res"
+"Resource/UI/destroy_menu/tele_exit_inactive.res"
 {
-	"ItemNameLabel"
-	{	
-		"labelText"		"#TF_Object_tele_exit_360"
-	}
-	
-	"NumberLabel"
-	{	
-		"labelText"		"4"
-	}
 }

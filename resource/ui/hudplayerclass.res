@@ -1,7 +1,6 @@
-#base "../../customization/stream/resource/ui/hudplayerclass.res"
-
-#base "custom/hudplayerclass.res"
-#base "../../defaulthud/resource/ui/hudplayerclass.res"
+#base "../../_custom/streamermode/resource/ui/hudplayerclass.res"
+#base "../../_statichud/resource/ui/hudplayerclass.res"
+#base "../../_defaulthud/resource/ui/hudplayerclass.res"
 
 "Resource/UI/HudPlayerClass.res"
 {

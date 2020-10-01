@@ -1,14 +1,6 @@
-#base "../base_cant_afford.res"
+#base "../../../../_statichud/resource/ui/build_menu/pipboy/base_cant_afford.res"
+#base "../../../../_defaulthud/resource/ui/build_menu/pipboy/base_cant_afford.res"
 
 "Resource/UI/build_menu/base_cant_afford.res"
 {
-	"ItemNameLabel"
-	{	
-		"fgcolor"		"0 255 0 255"
-	}
-	
-	"ItemBackground"	
-	{
-		"iconColor"		"0 0 0 255"
-	}
 }

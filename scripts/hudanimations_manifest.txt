@@ -3,12 +3,12 @@ hudanimations_manifest
 
 	"file"		"scripts/hudanimations.txt"
 
-	"file"		"scripts/hudanimations_ammoandhealth.txt"
-	"file"		"scripts/hudanimations_removeannoyinganims.txt"
-	"file"		"scripts/hudanimations_chatoverride.txt"
-	"file"		"scripts/hudanimations_ubercharge.txt"
-	"file"		"scripts/hudanimations_tournament.txt"
-	"file"		"customization/crosshairs/crosshair_animation.txt"
+	"file"		"_statichud/scripts/hudanimations_ammoandhealth.txt"
+	"file"		"_statichud/scripts/hudanimations_removeannoyinganims.txt"
+	"file"		"_statichud/scripts/hudanimations_chatoverride.txt"
+	"file"		"_statichud/scripts/hudanimations_ubercharge.txt"
+	"file"		"_statichud/scripts/hudanimations_tournament.txt"
+	"file"		"_custom/hudcrosshair/crosshair_animation.txt"
 
-	"file"		"defaulthud/scripts/hudanimations_tf.txt"
+	"file"		"_defaulthud/scripts/hudanimations_tf.txt"
 }

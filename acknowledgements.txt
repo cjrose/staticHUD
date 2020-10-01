@@ -32,3 +32,6 @@ https://discord.com/invite/C2EeDee
 
 Whisker - Streamer HUD mode reference
 https://github.com/rbjaxter/budhud
+
+collycat - Black/White Killfeed & Engie icons
+https://www.teamfortress.tv/48176/collyhud

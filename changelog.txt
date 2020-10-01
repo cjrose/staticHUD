@@ -1,6 +1,19 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Beta 10.01.2020
+----------------------------------------------
++ Added preliminary support for Halloween gamemodes. Expect a second update addressing anything missed
++ Reworked the way you enable HUD customizations
++ Added black and white killfeed icons (credit to collycat)
++ Added "Heavy Eating" to the closed captions (Feature request by The Troid)
++ Added a customization to add the TF2 characters back on the mainmenu
++ Added a config to easily enable the in game commands needed for transparent viewmodels
++ Added a config to easily remove the main menu dimmer. Check installation.txt
+~ Reformated the HUD, this could cause errors, please report them if you find them.
+
+
+----------------------------------------------
 		Beta 9.22.2020
 ----------------------------------------------
 + Added tooltips to main menu buttons

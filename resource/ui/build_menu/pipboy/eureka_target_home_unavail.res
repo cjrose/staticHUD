@@ -1,14 +1,6 @@
-#base "base_unavailable_teleport_target.res"
+#base "../../../../_statichud/resource/ui/build_menu/pipboy/eureka_target_home_unavail.res"
+#base "../../../../_defaulthud/resource/ui/build_menu/pipboy/eureka_target_home_unavail.res"
 
 "Resource/UI/build_menu/dispenser_unavailable.res"
 {
-	"ItemNameLabel"
-	{	
-		"labelText"		"#Hud_Menu_Teleport_Base"
-	}
-	
-	"NumberLabel"
-	{	
-		"labelText"		"1"
-	}
 }

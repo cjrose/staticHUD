@@ -1,20 +1,6 @@
-#base "base_active.res"
+#base "../../../_statichud/resource/ui/destroy_menu/dispenser_active.res"
+#base "../../../_defaulthud/resource/ui/destroy_menu/dispenser_active.res"
 
 "Resource/UI/destroy_menu/dispenser_active.res"
 {
-	"ItemNameLabel"
-	{	
-		"labelText"		"#TF_Object_Dispenser"
-	}
-		
-	"BuildingIcon"	
-	{
-		"icon"			"obj_status_dispenser"
-		"iconColor"		"shWhite"
-	}
-	
-	"NumberLabel"
-	{	
-		"labelText"		"2"
-	}
 }

@@ -1,0 +1,118 @@
+"Resource/UI/SpectatorTournamentGUIHealth.res"
+{
+	"PlayerStatusHealthImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImage"
+		"xpos"			"6"
+		"ypos"			"6"
+		"visible"		"0"
+		"enabled"		"0"
+	}		
+	"PlayerStatusHealthImageBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImageBG"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"visible"		"0"
+		"enabled"		"0"
+	}	
+	"BuildingStatusHealthImageBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"BuildingStatusHealthImageBG"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"zpos"			"2"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			"../hud/health_equip_bg"
+		"scaleImage"	"1"	
+	}	
+	"PlayerStatusHealthBonusImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthBonusImage"
+		"xpos"			"150"
+		"ypos"			"0"
+		"zpos"			"3"
+		"wide"			"16"
+		"tall"			"10000"
+		"visible"		"0"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/hp/hpbar_overlay"
+		"scaleImage"	"1"	
+	}
+	"TourneySpecGUIHealthValue"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"TourneySpecGUIHealthValue"
+		"xpos"			"103"
+		"ypos"			"-5"
+		"zpos"			"5"
+		"wide"			"75"
+		"tall"			"25"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"	
+		"font"			"tbf14"
+		"fgcolor"		"shWhite"
+	}
+
+	"TourneySpecGUIHealthValueShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"TourneySpecGUIHealthValueShadow"
+		"xpos"			"-1"
+		"ypos"			"-1"
+		"zpos"			"4"
+		"wide"			"75"
+		"tall"			"25"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"	
+		"font"			"tbf14"
+		"fgcolor"		"shBlack"
+
+		"pin_to_sibling"		"TourneySpecGUIHealthValue"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+	}
+
+	"HealthBarOverhealed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"HealthBarOverhealed"
+		"xpos"			"150"
+		"ypos"			"0"
+		"zpos"			"2"
+		"wide"			"4"
+		"tall"			"f0"
+		"visible"		"1"
+		"enabled"		"1"
+		"alpha"			"0"
+		"fillcolor"		"shHPOverheal"
+	}
+
+	"PlayerStatusHealthValue"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValue"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"5"
+		"wide"			"75"
+		"tall"			"25"
+		"visible"		"0"
+		"enabled"		"0"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"	
+		"font"			"u12"
+		"fgcolor"		"shWhite"
+	}
+}

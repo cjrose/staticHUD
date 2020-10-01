@@ -13,21 +13,27 @@ http://discord.gg/NtQ3FsT
         Opaque HP and Ammo bars
 ----------------------------------------------
 
-As of Beta 9.11.2020, the HP and Ammo bars are made to be defaulted as transparent objects. If you would still like to use the old opaque bars, navigate to 'customization/opaquebars' folder and open 'hpbar.res' and 'ammo.res'. Follow the instructions in both of those files to make the changes you want.
+As of Beta 9.11.2020, the HP and Ammo bars are made to be defaulted as transparent objects. If you would still like to use the old opaque bars, navigate to '_custom/_DISABLED/' and copy the 'opaquebars' folder into the '_custom' folder to enable it. If you would like to change the transparency manually, you can edit the files in that folder to your liking.
 
 ----------------------------------------------
         Health bar fixes
 ----------------------------------------------
 
-The horizontal health bar effect does not play well with varying resolutions. Check out 'customization/hpbar_resolutions/hpbar.res' file to fix it for your resolution.
+The horizontal health bar effect does not play well with varying resolutions. Check out '_custom/_DISABLED/' and copy 'hpbar_resolutions' to enable the customization. Then open the .res file contained in this file to edit it to work for your resolution.
 If you are using 1920x1080, you *should* not have to change this value.
+
+----------------------------------------------
+		Main Menu Dimmer Remover
+----------------------------------------------
+
+To enable this customization, you should add 'exec statichud_removedimmer' to your autoexec. Keep in mind some configs, such as mastercomfig, purposefully block mat_antialias changes, making this not work. 
 
 ----------------------------------------------
         Streamer Mode
 ----------------------------------------------
 
 If you plan to stream public lobbies to Twitch, it is highly advised you use the streamer mode of this HUD to ensure you are not stream sniped / have the server dossed.
-To enable streamer mode, navigate to the 'customization' folder and rename the '_stream' folder to 'stream'.
+To enable streamer mode, navigate to the '_custom/_DISABLED' folder and move the 'stream' folder to '_custom'.
 After that, if you have your game open, run the following command in your console: 'exec statichud_streamermode_on'.
 
 Please make sure to read the output of the execution to know exactly what has changed. If using streamer mode, please avoid using your console while you're showing your game, otherwise it can easily give you away.
@@ -36,36 +42,22 @@ Please make sure to read the output of the execution to know exactly what has ch
         HUD Crosshairs
 ----------------------------------------------
 
-To enable HUD crosshairs, navigate to the 'customization/crosshairs' folder and open 'crosshair.res'.
-Follow the instructions in that file to enable your custom crosshair.
+To enable HUD crosshairs, navigate to the '_custom/_DISABLED' folder and move the 'hudcrosshair' folder to the '_custom' folder. You can then edit 'crosshair.res' within the 'hudcrosshair' folder to your liking.
+Follow the instructions in that file to customize your crosshair.
 
 Make sure you change 'cl_crosshair_scale' to 0 to hide the vanilla TF2 crosshairs
 
 ----------------------------------------------
         Transparent Viewmodels
 ----------------------------------------------
-To enable transparent viewmodels, navigate to the 'customization/transparentviewmodels' folder and open 'transparent_viewmodels.res'.
-Follow the instructions listed, and ensure that the following batch of commands are in your autoexec.cfg.
-
-// Prism Settings (for refract)
-
-mat_motion_blur_enabled 1 			//afaik the only sure-fire way to keep refract masking on
-mat_motion_blur_strength 0 			//effectively disables motion blur, personal choice + motion blur gets masked and looks bad with refract masking
-mat_disable_bloom 1 				//disables bloom so refract masking doesn't create a dark rectangle over light materials
-mat_hdr_level 0
-mat_colcorrection_disableentities 1
-mat_colorcorrection 0
-
-
-
-If you do not have a custom autoexec.cfg, navigate to the 'custom' folder and create a new folder named 'myconfigs'. In that folder make another folder named 'cfg', then after that place a file named autoexec.cfg in the 'cfg' folder. This file will be a list of commands run everytime you launch your game. Paste the above commands into this file and save. Reload TF2 for this to take effect.
-
+To enable transparent viewmodels, navigate to the '_custom/_DISABLED' folder and move 'transparentviewmodels' to the '_custom' folder to enable the customization.
+Make sure to run the command 'exec statichud_transparentviewmodels' whenever you want to use this customization. (Best to add to an autoexec)
 
 ----------------------------------------------
         HUD Colors
 ----------------------------------------------
 
-Dislike a certain color? Navigate to 'customization/colors.res' where you can feel free to change the color of any of the base HUD colors. Please note, this will not change the color of the main menu borders and backgrounds, as they are handled with VTFs.
+Dislike a certain color? Navigate to '_custom/colors.res' where you can feel free to change the color of any of the base HUD colors. Please note, this will not change the color of the main menu borders and backgrounds, as they are handled with VTFs.
 
 Here's a breakdown on each color entry and what it controls:
 

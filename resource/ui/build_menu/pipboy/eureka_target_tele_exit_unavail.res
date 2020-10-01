@@ -1,14 +1,6 @@
-#base "base_unavailable_teleport_target.res"
+#base "../../../../_statichud/resource/ui/build_menu/pipboy/eureka_target_tele_exit_unavail.res"
+#base "../../../../_defaulthud/resource/ui/build_menu/pipboy/eureka_target_tele_exit_unavail.res"
 
 "Resource/UI/build_menu/tele_exit_unavailable.res"
 {
-	"ItemNameLabel"
-	{	
-		"labelText"		"#TF_Object_tele_exit_360"
-	}
-	
-	"NumberLabel"
-	{	
-		"labelText"		"2"
-	}
 }
