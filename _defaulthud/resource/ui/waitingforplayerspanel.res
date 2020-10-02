@@ -22,7 +22,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"WaitingForPlayersLabel"
 		"font"			"HudFontMedium"
-		"xpos"			"6"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"292"
