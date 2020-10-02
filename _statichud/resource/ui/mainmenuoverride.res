@@ -173,7 +173,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"image"			"../console/background_upward"
+		"image"				"replay/thumbnails/mainmenu/background"
 		"proportionaltoparent"	"1"
 
 		if_wider
@@ -244,14 +244,14 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"staticHUDLabel"
-		"xpos"			"-60"
+		"xpos"			"-50"
 		"ypos"			"-32"
 		"zpos"			"2"
-		"wide"			"150"
+		"wide"			"200"
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"staticHUD Beta 10.01.2020"
+		"labelText"		"staticHUD Release 10.02.2020"
 		"font"			"u14"
 		"fgcolor"		"shWhite"
 		"textAlignment"	"left"
@@ -1964,20 +1964,6 @@
 				"proportionaltoparent"	"1"
 
 				"bgcolor_override"		"0 0 0 255"
-
-				"items"
-				{
-					"0"
-					{
-						"item"		"Summer 2020 Cosmetic Key"
-						"show_market"	"0"
-					}
-					"1"
-					{
-						"item"		"Summer 2020 Cosmetic Case"
-						"show_market"	"1"
-					}
-				}
 			}
 
 		} // Background

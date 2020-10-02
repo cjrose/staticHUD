@@ -11,7 +11,7 @@
 // 				 OUTLINED FONTS 			 //
 ///////////////////////////////////////////////
 
-#base "scheme/scheme_outline.res"
+#base "crosshair_scheme/scheme_outline.res"
 
 ///////////////////////////////////////////////
 // 				  BLUR FONTS 				 //
@@ -37,6 +37,6 @@
 // 	  YOU DON'T WANT TO COMMENT THAT EVER	 //
 ///////////////////////////////////////////////
 
-#base "scheme/scheme_main.res"
+#base "crosshair_scheme/scheme_main.res"
 
 ///////////////////////////////////////////////

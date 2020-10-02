@@ -14,6 +14,8 @@ This HUD features flexibility with customization. The included features are:
 - HP and Ammo bar transparent variants
 - Color customization
 
+For guidance on how to enable these customizations, please checkout the [Wiki](https://github.com/cjrose/staticHUD/wiki)
+
 ### Acknowledgements
 There was a lot of help and support given along the way, and I want to acknowledge everyone important in [acknowledgements.txt](./acknowledgements.txt)
 

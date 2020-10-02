@@ -1,6 +1,24 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Release 10.02.2020
+----------------------------------------------
+** Version changed from Beta to Release ** All gamemodes and features of the HUD are finished. This does not mean I will not work on it anymore, just that all the major points are covered now. **
++ Added a new main menu background and game loading screen. This main menu will only be visible when there is not an event going on, otherwise Halloween and Christmas backgrounds will display.
++ Updated the main menu to contain the new items in the cycling ad.
++ Added a customization to remove the player class on the bottom right (both 3d and 2d versions)
++ Fixed the dead icon not appearing in voice status
++ Added the regular timers for people not using tf_use_match_hud
++ Updated the playlist queue to match the rest of the HUD theme
++ Added mannpower support
++ Added robot destruction support
++ Added player destruction support
++ Added passtime support
+~ All info regarding customization can be found on the GitHub wiki now rather than in the installation.txt file. The wiki can be found here:
+https://github.com/cjrose/staticHUD/wiki
+
+
+----------------------------------------------
 		Beta 10.01.2020
 ----------------------------------------------
 + Added preliminary support for Halloween gamemodes. Expect a second update addressing anything missed

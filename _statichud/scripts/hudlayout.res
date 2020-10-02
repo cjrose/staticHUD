@@ -437,7 +437,7 @@
 		"avatar_tall"		"17"
 		
 		"show_dead_icon"	"1"
-		"dead_xpos"			"1"
+		"dead_xpos"			"16"
 		"dead_ypos"			"0"
 		"dead_wide"			"16"
 		"dead_tall"			"16"
@@ -448,7 +448,7 @@
 		"icon_tall"			"16"
 		"icon_wide"			"16"
 		
-		"text_xpos"			"18"
+		"text_xpos"			"32"
 	}
 
 	HudArenaCapPointCountdown

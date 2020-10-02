@@ -1,6 +1,6 @@
 ----------------------------------------------
             staticHUD Installation
-                Last Updated: 9.10.2020
+                Last Updated: 10.02.2020
 ----------------------------------------------
 
 For specific install instructions for your system, please visit the great guides available at HUDs.TF created by omni.
@@ -9,66 +9,5 @@ https://huds.tf/forum/forumdisplay.php?fid=29
 Need additional help? Join the HUD discord and ask me directly! 
 http://discord.gg/NtQ3FsT
 
-----------------------------------------------
-        Opaque HP and Ammo bars
-----------------------------------------------
-
-As of Beta 9.11.2020, the HP and Ammo bars are made to be defaulted as transparent objects. If you would still like to use the old opaque bars, navigate to '_custom/_DISABLED/' and copy the 'opaquebars' folder into the '_custom' folder to enable it. If you would like to change the transparency manually, you can edit the files in that folder to your liking.
-
-----------------------------------------------
-        Health bar fixes
-----------------------------------------------
-
-The horizontal health bar effect does not play well with varying resolutions. Check out '_custom/_DISABLED/' and copy 'hpbar_resolutions' to enable the customization. Then open the .res file contained in this file to edit it to work for your resolution.
-If you are using 1920x1080, you *should* not have to change this value.
-
-----------------------------------------------
-		Main Menu Dimmer Remover
-----------------------------------------------
-
-To enable this customization, you should add 'exec statichud_removedimmer' to your autoexec. Keep in mind some configs, such as mastercomfig, purposefully block mat_antialias changes, making this not work. 
-
-----------------------------------------------
-        Streamer Mode
-----------------------------------------------
-
-If you plan to stream public lobbies to Twitch, it is highly advised you use the streamer mode of this HUD to ensure you are not stream sniped / have the server dossed.
-To enable streamer mode, navigate to the '_custom/_DISABLED' folder and move the 'stream' folder to '_custom'.
-After that, if you have your game open, run the following command in your console: 'exec statichud_streamermode_on'.
-
-Please make sure to read the output of the execution to know exactly what has changed. If using streamer mode, please avoid using your console while you're showing your game, otherwise it can easily give you away.
-
-----------------------------------------------
-        HUD Crosshairs
-----------------------------------------------
-
-To enable HUD crosshairs, navigate to the '_custom/_DISABLED' folder and move the 'hudcrosshair' folder to the '_custom' folder. You can then edit 'crosshair.res' within the 'hudcrosshair' folder to your liking.
-Follow the instructions in that file to customize your crosshair.
-
-Make sure you change 'cl_crosshair_scale' to 0 to hide the vanilla TF2 crosshairs
-
-----------------------------------------------
-        Transparent Viewmodels
-----------------------------------------------
-To enable transparent viewmodels, navigate to the '_custom/_DISABLED' folder and move 'transparentviewmodels' to the '_custom' folder to enable the customization.
-Make sure to run the command 'exec statichud_transparentviewmodels' whenever you want to use this customization. (Best to add to an autoexec)
-
-----------------------------------------------
-        HUD Colors
-----------------------------------------------
-
-Dislike a certain color? Navigate to '_custom/colors.res' where you can feel free to change the color of any of the base HUD colors. Please note, this will not change the color of the main menu borders and backgrounds, as they are handled with VTFs.
-
-Here's a breakdown on each color entry and what it controls:
-
-    shYellow        Controls scoreboard assist label and MvM wave count color
-    shWhite         Controls the majority of text and any white elements in the HUD
-    shBlack         Controls all black colors in HUD. Includes inventory background color and dropshadow color for ammo
-    shGreen         Controls inventory highlights, button colors
-    shGray          Controls text entries, and meters
-    shRed           Controls deaths label in scoreboard, engineer can't afford label, low health color
-    shLightBlue     Controls the damage label in the scoreboard
-
-    shHPNormal      Controls the color of the health bar
-    shHPLow         Controls the low health color
-    shHPOverheal    Controls the color of overheal
+As of Release 10.02.2020, all customization instructions can be found on the wiki:
+https://github.com/cjrose/staticHUD/wiki
