@@ -1,6 +1,16 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Release 10.12.2020
+----------------------------------------------
++ Added HUD notifications (ctf cap etc)
++ Added clovervidia close captions, check the wiki for how to enable
+~ Adjusted where the close captions appear on the HUD
+~ Fixed HUD crosshair animations not working
+~ Fixed the engineer's build menu being messed up from the refactor.
+
+
+----------------------------------------------
 		Release 10.02.2020
 ----------------------------------------------
 ** Version changed from Beta to Release ** All gamemodes and features of the HUD are finished. This does not mean I will not work on it anymore, just that all the major points are covered now. **

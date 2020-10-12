@@ -35,3 +35,6 @@ https://github.com/rbjaxter/budhud
 
 collycat - Black/White Killfeed & Engie icons
 https://www.teamfortress.tv/48176/collyhud
+
+clovervidia - Close captions
+https://github.com/clovervidia/clovervidias-captions

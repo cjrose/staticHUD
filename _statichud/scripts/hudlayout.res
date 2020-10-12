@@ -394,7 +394,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"c-320"
-		"ypos"					"r75"
+		"ypos"					"375"
 		"wide"					"640"
 		"tall"					"100"
 	}
@@ -404,8 +404,8 @@
 		"fieldName" "HudCloseCaption"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c145"
-		"ypos"		"c-70"	
+		"xpos"		"c215"
+		"ypos"		"c-20"	
 		"wide"		"100"
 		"tall"		"136"	
 
