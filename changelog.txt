@@ -1,6 +1,12 @@
 staticHUD Changelog
 
 ----------------------------------------------
+		Release 04.30.2023
+----------------------------------------------
+~ Fixed a bug with the MvM currency panel not being displayed
+
+
+----------------------------------------------
 		Release 10.12.2020
 ----------------------------------------------
 + Added HUD notifications (ctf cap etc)
