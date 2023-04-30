@@ -251,7 +251,7 @@
 		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"staticHUD Release 10.02.2020"
+		"labelText"		"staticHUD Release 04.30.2023"
 		"font"			"u14"
 		"fgcolor"		"shWhite"
 		"textAlignment"	"left"
